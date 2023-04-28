@@ -1,0 +1,1002 @@
+,Country,Year,Category,State,Type,Consumption
+0,India,2021,Non-Alloy Finished Steel,Jammu and Kashmir,Bars and Rods,5.7142
+1,India,2020,Non-Alloy Finished Steel,Jammu and Kashmir,Stainless Steel,5.16517
+2,India,2021,Non-Alloy Finished Steel,Andhra Pradesh,Stainless Steel,45.714
+3,India,2021,Non-Alloy Finished Steel,Andhra Pradesh,HR Coil,43.568
+4,India,2020,Non-Alloy Finished Steel,Andhra Pradesh,Bars and Rods,45.714
+5,India,2020,Non-Alloy Finished Steel,Andhra Pradesh,Galvanized Iron Coil,46.147
+6,India,2021,Non-Alloy Finished Steel,Arunachal Pradesh,Stainless Steel,17.1428
+7,India,2021,Non-Alloy Finished Steel,Arunachal Pradesh,Bars and Rods,12.314
+8,India,2021,Non-Alloy Finished Steel,Arunachal Pradesh,HR Coil,14.714
+9,India,2019,Non-Alloy Finished Steel,Assam,Bars and Rods,17.1428
+10,India,2021,Non-Alloy Finished Steel,Assam,HR Coil,17.1428
+11,India,2021,Non-Alloy Finished Steel,Bihar,HR Coil,45.714
+12,India,2021,Non-Alloy Finished Steel,Bihar,Stainless Steel,45.714
+13,India,2021,Non-Alloy Finished Steel,Bihar,Bars and Rods,46.897
+14,India,2021,Non-Alloy Finished Steel,Bihar,Bars and Rods,46.897
+15,India,2021,Non-Alloy Finished Steel,Bihar,Bars and Rods,46.897
+16,India,2021,Non-Alloy Finished Steel,Bihar,HR Coil,43.714
+17,India,2021,Non-Alloy Finished Steel,Chhattisgarh,Bars and Rods,21.85714
+18,India,2021,Non-Alloy Finished Steel,Chhattisgarh,HR Coil,22.85714
+19,India,2021,Non-Alloy Finished Steel,Chhattisgarh,Galvanized Iron Coil,20.374
+20,India,2020,Non-Alloy Finished Steel,Chhattisgarh,HR Coil,21.85714
+21,India,2020,Non-Alloy Finished Steel,Goa,Bars and Rods,14.28571
+22,India,2021,Non-Alloy Finished Steel,Goa,HR Coil,14.28571
+23,India,2020,Non-Alloy Finished Steel,Gujarat,Galvanized Iron Coil,51.4285
+24,India,2021,Non-Alloy Finished Steel,Gujarat,HR Coil,51.4285
+25,India,2021,Non-Alloy Finished Steel,Gujarat,HR Coil,51.4285
+26,India,2021,Non-Alloy Finished Steel,Gujarat,Galvanized Iron Coil,45.5714
+27,India,2021,Non-Alloy Finished Steel,Gujarat,Bars and Rods,51.5714
+28,India,2021,Non-Alloy Finished Steel,Haryana,Bars and Rods,51.4285
+29,India,2021,Non-Alloy Finished Steel,Haryana,Galvanized Iron Coil,51.4285
+30,India,2021,Non-Alloy Finished Steel,Himachal Pradesh,Bars and Rods,28.5714
+31,India,2020,Non-Alloy Finished Steel,Himachal Pradesh,HR Coil,28.5714
+32,India,2020,Non-Alloy Finished Steel,Jharkhand,Galvanized Iron Coil,40.5714
+33,India,2019,Non-Alloy Finished Steel,Jharkhand,Galvanized Iron Coil,40.0
+34,India,2021,Non-Alloy Finished Steel,Jharkhand,Galvanized Iron Coil,40.5714
+35,India,2021,Non-Alloy Finished Steel,Jharkhand,Bars and Rods,40.5714
+36,India,2021,Non-Alloy Finished Steel,Karnataka,Galvanized Iron Coil,54.2857
+37,India,2021,Non-Alloy Finished Steel,Karnataka,Galvanized Iron Coil,54.2857
+38,India,2020,Non-Alloy Finished Steel,Karnataka,Bars and Rods,54.2857
+39,India,2020,Non-Alloy Finished Steel,Karnataka,Galvanized Iron Coil,54.2857
+40,India,2021,Non-Alloy Finished Steel,Karnataka,HR Coil,50.714
+41,India,2021,Non-Alloy Finished Steel,Karnataka,Galvanized Iron Coil,42.892
+42,India,2021,Non-Alloy Finished Steel,Kerala,Bars and Rods,11.428
+43,India,2020,Non-Alloy Finished Steel,Kerala,Galvanized Iron Coil,10.57
+44,India,2021,Non-Alloy Finished Steel,Kerala,HR Coil,5.5714
+45,India,2021,Non-Alloy Finished Steel,Madhya Pradesh,Bars and Rods,37.1428
+46,India,2021,Non-Alloy Finished Steel,Madhya Pradesh,Stainless Steel,37.1428
+47,India,2021,Non-Alloy Finished Steel,Madhya Pradesh,Stainless Steel,37.1428
+48,India,2021,Non-Alloy Finished Steel,Madhya Pradesh,Galvanized Iron Coil,38.714
+49,India,2021,Non-Alloy Finished Steel,Maharashtra,Bars and Rods,65.7142
+50,India,2020,Non-Alloy Finished Steel,Maharashtra,Galvanized Iron Coil,65.7142
+51,India,2021,Non-Alloy Finished Steel,Maharashtra,Stainless Steel,70.5714
+52,India,2021,Non-Alloy Finished Steel,Maharashtra,Stainless Steel,72.514
+53,India,2021,Non-Alloy Finished Steel,Maharashtra,Stainless Steel,72.514
+54,India,2021,Non-Alloy Finished Steel,Manipur,Bars and Rods,2.85714
+55,India,2021,Non-Alloy Finished Steel,Manipur,HR Coil,2.85714
+56,India,2021,Non-Alloy Finished Steel,Meghalaya,Bars and Rods,0.3714
+57,India,2021,Non-Alloy Finished Steel,Meghalaya,HR Coil,0.3714
+58,India,2021,Non-Alloy Finished Steel,Mizoram,Bars and Rods,2.85714
+59,India,2021,Non-Alloy Finished Steel,Mizoram,HR Coil,2.85714
+60,India,2019,Non-Alloy Finished Steel,Nagaland,Bars and Rods,6.5714
+61,India,2020,Non-Alloy Finished Steel,Nagaland,HR Coil,6.5714
+62,India,2020,Non-Alloy Finished Steel,Odisha,Stainless Steel,20.0
+63,India,2021,Non-Alloy Finished Steel,Odisha,Stainless Steel,20.5714
+64,India,2021,Non-Alloy Finished Steel,Odisha,Stainless Steel,20.5714
+65,India,2020,Non-Alloy Finished Steel,Odisha,HR Coil,20.5714
+66,India,2020,Non-Alloy Finished Steel,Punjab,HR Coil,54.2857
+67,India,2021,Non-Alloy Finished Steel,Punjab,Stainless Steel,54.2857
+68,India,2021,Non-Alloy Finished Steel,Rajasthan,Galvanized Iron Coil,54.2857
+69,India,2021,Non-Alloy Finished Steel,Rajasthan,HR Coil,42.85714
+70,India,2021,Non-Alloy Finished Steel,Rajasthan,Galvanized Iron Coil,42.85714
+71,India,2021,Non-Alloy Finished Steel,Rajasthan,Bars and Rods,42.85714
+72,India,2021,Non-Alloy Finished Steel,Rajasthan,Bars and Rods,42.85714
+73,India,2021,Non-Alloy Finished Steel,Sikkim,HR Coil,28.5714
+74,India,2021,Non-Alloy Finished Steel,Tamil Nadu,Bars and Rods,62.85714
+75,India,2021,Non-Alloy Finished Steel,Tamil Nadu,Stainless Steel,60.5714
+76,India,2020,Non-Alloy Finished Steel,Tamil Nadu,HR Coil,63.5714
+77,India,2020,Non-Alloy Finished Steel,Tamil Nadu,HR Coil,64.0
+78,India,2021,Non-Alloy Finished Steel,Tamil Nadu,Bars and Rods,62.85714
+79,India,2021,Non-Alloy Finished Steel,Telangana,HR Coil,11.428
+80,India,2021,Non-Alloy Finished Steel,Telangana,HR Coil,11.428
+81,India,2020,Non-Alloy Finished Steel,Telangana,Bars and Rods,11.428
+82,India,2019,Non-Alloy Finished Steel,Telangana,Galvanized Iron Coil,11.428
+83,India,2021,Non-Alloy Finished Steel,Tripura,Bars and Rods,2.85714
+84,India,2021,Non-Alloy Finished Steel,Tripura,HR Coil,2.85714
+85,India,2020,Non-Alloy Finished Steel,Uttar Pradesh,Bars and Rods,68.5714
+86,India,2020,Non-Alloy Finished Steel,Uttar Pradesh,Bars and Rods,68.5714
+87,India,2019,Non-Alloy Finished Steel,Uttar Pradesh,Bars and Rods,70.0
+88,India,2021,Non-Alloy Finished Steel,Uttar Pradesh,Galvanized Iron Coil,66.514
+89,India,2021,Non-Alloy Finished Steel,Uttar Pradesh,Bars and Rods,25.714
+90,India,2021,Non-Alloy Finished Steel,Uttar Pradesh,HR Coil,25.714
+91,India,2021,Non-Alloy Finished Steel,Uttarakhand,Bars and Rods,40.0
+92,India,2020,Non-Alloy Finished Steel,Uttarakhand,Bars and Rods,42.5714
+93,India,2019,Non-Alloy Finished Steel,Uttarakhand,Bars and Rods,43.5714
+94,India,2020,Non-Alloy Finished Steel,Uttarakhand,HR Coil,40.0
+95,India,2021,Non-Alloy Finished Steel,West Bengal,Bars and Rods,54.2857
+96,India,2021,Non-Alloy Finished Steel,West Bengal,HR Coil,54.2857
+97,India,2021,Non-Alloy Finished Steel,Chandigarh,Bars and Rods,20.0
+98,India,2021,Non-Alloy Finished Steel,Chandigarh,Stainless Steel,20.0
+99,India,2021,Non-Alloy Finished Steel,Delhi,Galvanized Iron Coil,2.85714
+100,India,2020,Non-Alloy Finished Steel,Delhi,Bars and Rods,2.8714
+101,India,2021,Non-Alloy Finished Steel,Karnataka,Galvanized Iron Coil,32.42785
+102,India,2021,Non-Alloy Finished Steel,Karnataka,Galvanized Iron Coil,32.42785
+103,India,2021,Non-Alloy Finished Steel,Chhattisgarh,HR Coil,28.78557
+104,India,2021,Non-Alloy Finished Steel,Chandigarh,Stainless Steel,20.5714
+105,India,2021,Non-Alloy Finished Steel,Chhattisgarh,Bars and Rods,24.2927
+106,India,2020,Non-Alloy Finished Steel,Karnataka,Galvanized Iron Coil,24.50207
+107,India,2021,Non-Alloy Finished Steel,Bihar,Stainless Steel,60.5714
+108,India,2021,Non-Alloy Finished Steel,Andhra Pradesh,Galvanized Iron Coil,25.5707
+109,India,2021,Non-Alloy Finished Steel,Odisha,Stainless Steel,53.8571
+110,India,2021,Non-Alloy Finished Steel,Maharashtra,Stainless Steel,20.0
+111,India,2021,Non-Alloy Finished Steel,Meghalaya,Bars and Rods,3.4714
+112,India,2021,Non-Alloy Finished Steel,Delhi,Bars and Rods,32.85714
+113,India,2021,Non-Alloy Finished Steel,Maharashtra,Stainless Steel,38.8571
+114,India,2021,Non-Alloy Finished Steel,Madhya Pradesh,Stainless Steel,37.42855
+115,India,2020,Non-Alloy Finished Steel,Jharkhand,Bars and Rods,54.2857
+116,India,2021,Non-Alloy Finished Steel,Tamil Nadu,Stainless Steel,20.2857
+117,India,2020,Non-Alloy Finished Steel,Karnataka,Bars and Rods,38.571425
+118,India,2021,Non-Alloy Finished Steel,Gujarat,Galvanized Iron Coil,28.3585
+119,India,2020,Non-Alloy Finished Steel,Rajasthan,Bars and Rods,18.5714
+120,India,2021,Non-Alloy Finished Steel,Maharashtra,Stainless Steel,49.999849999999995
+121,India,2021,Non-Alloy Finished Steel,Tripura,HR Coil,7.14257
+122,India,2021,Non-Alloy Finished Steel,Rajasthan,Galvanized Iron Coil,47.160250000000005
+123,India,2021,Non-Alloy Finished Steel,Kerala,HR Coil,18.071425
+124,India,2021,Non-Alloy Finished Steel,Maharashtra,Stainless Steel,48.8571
+125,India,2021,Non-Alloy Finished Steel,Karnataka,Galvanized Iron Coil,28.57142
+126,India,2020,Non-Alloy Finished Steel,Odisha,Stainless Steel,29.725434999999997
+127,India,2021,Non-Alloy Finished Steel,Chhattisgarh,HR Coil,13.5714
+128,India,2020,Non-Alloy Finished Steel,Delhi,Galvanized Iron Coil,56.042699999999996
+129,India,2021,Non-Alloy Finished Steel,Bihar,HR Coil,15.71427
+130,India,2020,Non-Alloy Finished Steel,Karnataka,Galvanized Iron Coil,42.874570000000006
+131,India,2021,Non-Alloy Finished Steel,Uttarakhand,HR Coil,44.6427
+132,India,2020,Non-Alloy Finished Steel,Tamil Nadu,HR Coil,28.570999999999998
+133,India,2021,Non-Alloy Finished Steel,Uttar Pradesh,Bars and Rods,47.142849999999996
+134,India,2021,Non-Alloy Finished Steel,Karnataka,Galvanized Iron Coil,47.160250000000005
+135,India,2021,Non-Alloy Finished Steel,Andhra Pradesh,Stainless Steel,40.2857
+136,India,2021,Non-Alloy Finished Steel,Haryana,Bars and Rods,21.428555
+137,India,2021,Non-Alloy Finished Steel,Maharashtra,Stainless Steel,35.71425
+138,India,2020,Non-Alloy Finished Steel,Karnataka,HR Coil,41.42857
+139,India,2021,Non-Alloy Finished Steel,Jammu and Kashmir,Stainless Steel,21.153985
+140,India,2021,Non-Alloy Finished Steel,Karnataka,Galvanized Iron Coil,44.5195
+141,India,2021,Non-Alloy Finished Steel,Mizoram,HR Coil,57.49995
+142,India,2021,Non-Alloy Finished Steel,Telangana,Bars and Rods,53.21427
+143,India,2021,Non-Alloy Finished Steel,Maharashtra,Stainless Steel,53.8571
+144,India,2021,Non-Alloy Finished Steel,Uttarakhand,Bars and Rods,27.142699999999998
+145,India,2021,Non-Alloy Finished Steel,Arunachal Pradesh,HR Coil,27.32855
+146,India,2021,Non-Alloy Finished Steel,Odisha,Stainless Steel,32.857
+147,India,2020,Non-Alloy Finished Steel,Maharashtra,Stainless Steel,48.8571
+148,India,2021,Non-Alloy Finished Steel,Jammu and Kashmir,Stainless Steel,28.857100000000003
+149,India,2021,Non-Alloy Finished Steel,Jammu and Kashmir,Stainless Steel,28.857100000000003
+150,India,2019,Non-Alloy Finished Steel,Uttarakhand,Bars and Rods,48.92855
+151,India,2021,Non-Alloy Finished Steel,Madhya Pradesh,Stainless Steel,33.1427
+152,India,2020,Non-Alloy Finished Steel,Jammu and Kashmir,Stainless Steel,53.8571
+153,India,2021,Non-Alloy Finished Steel,Arunachal Pradesh,HR Coil,1.6142699999999999
+154,India,2021,Non-Alloy Finished Steel,Chandigarh,Bars and Rods,20.4714
+155,India,2021,Non-Alloy Finished Steel,Jammu and Kashmir,Stainless Steel,37.42855
+156,India,2020,Non-Alloy Finished Steel,Andhra Pradesh,Galvanized Iron Coil,40.803
+157,India,2021,Non-Alloy Finished Steel,Telangana,HR Coil,23.28557
+158,India,2021,Non-Alloy Finished Steel,Gujarat,HR Coil,53.6427
+159,India,2021,Non-Alloy Finished Steel,Uttar Pradesh,Bars and Rods,26.3056
+160,India,2020,Non-Alloy Finished Steel,Chhattisgarh,Bars and Rods,26.4427
+161,India,2021,Non-Alloy Finished Steel,Chhattisgarh,Bars and Rods,46.897
+162,India,2021,Non-Alloy Finished Steel,Karnataka,Galvanized Iron Coil,60.39985
+163,India,2021,Non-Alloy Finished Steel,Tamil Nadu,Bars and Rods,35.71427
+164,India,2021,Non-Alloy Finished Steel,Rajasthan,Galvanized Iron Coil,65.7142
+165,India,2019,Non-Alloy Finished Steel,West Bengal,Bars and Rods,6.3427
+166,India,2021,Non-Alloy Finished Steel,Gujarat,Galvanized Iron Coil,31.42825
+167,India,2021,Non-Alloy Finished Steel,Telangana,HR Coil,29.928549999999998
+168,India,2021,Non-Alloy Finished Steel,Uttar Pradesh,Galvanized Iron Coil,35.90125
+169,India,2021,Non-Alloy Finished Steel,Delhi,Galvanized Iron Coil,48.58885
+170,India,2021,Non-Alloy Finished Steel,Chhattisgarh,Galvanized Iron Coil,21.71427
+171,India,2021,Non-Alloy Finished Steel,Manipur,Bars and Rods,35.71427
+172,India,2021,Non-Alloy Finished Steel,Mizoram,Bars and Rods,14.285400000000001
+173,India,2021,Non-Alloy Finished Steel,Karnataka,HR Coil,43.42857
+174,India,2020,Non-Alloy Finished Steel,Haryana,Galvanized Iron Coil,40.78557
+175,India,2021,Non-Alloy Finished Steel,Rajasthan,HR Coil,25.71427
+176,India,2021,Non-Alloy Finished Steel,Uttar Pradesh,Galvanized Iron Coil,66.11410000000001
+177,India,2021,Non-Alloy Finished Steel,Meghalaya,Bars and Rods,26.3056
+178,India,2021,Non-Alloy Finished Steel,Maharashtra,Stainless Steel,37.1428
+179,India,2021,Non-Alloy Finished Steel,Madhya Pradesh,Galvanized Iron Coil,28.57142
+180,India,2020,Non-Alloy Finished Steel,Jharkhand,Galvanized Iron Coil,60.39985
+181,India,2021,Non-Alloy Finished Steel,Meghalaya,Bars and Rods,40.5714
+182,India,2021,Non-Alloy Finished Steel,Madhya Pradesh,Stainless Steel,28.857100000000003
+183,India,2021,Non-Alloy Finished Steel,Manipur,Bars and Rods,42.857
+184,India,2021,Non-Alloy Finished Steel,Kerala,Bars and Rods,55.71427
+185,India,2021,Non-Alloy Finished Steel,Rajasthan,Galvanized Iron Coil,52.8571
+186,India,2020,Non-Alloy Finished Steel,Andhra Pradesh,Stainless Steel,21.153985
+187,India,2020,Non-Alloy Finished Steel,Uttarakhand,Bars and Rods,29.8571
+188,India,2021,Non-Alloy Finished Steel,Karnataka,Galvanized Iron Coil,43.3592
+189,India,2021,Non-Alloy Finished Steel,Karnataka,HR Coil,8.4997
+190,India,2021,Non-Alloy Finished Steel,Maharashtra,Galvanized Iron Coil,47.42855
+191,India,2020,Non-Alloy Finished Steel,Uttar Pradesh,Bars and Rods,39.999970000000005
+192,India,2021,Non-Alloy Finished Steel,Andhra Pradesh,HR Coil,38.214
+193,India,2021,Non-Alloy Finished Steel,Tamil Nadu,HR Coil,4.71427
+194,India,2021,Non-Alloy Finished Steel,Jammu and Kashmir,Stainless Steel,46.542699999999996
+195,India,2020,Non-Alloy Finished Steel,Haryana,Galvanized Iron Coil,53.1428
+196,India,2021,Non-Alloy Finished Steel,Arunachal Pradesh,HR Coil,28.78557
+197,India,2020,Non-Alloy Finished Steel,Arunachal Pradesh,Stainless Steel,40.5714
+198,India,2020,Non-Alloy Finished Steel,Punjab,HR Coil,32.857105
+199,India,2021,Non-Alloy Finished Steel,Uttar Pradesh,HR Coil,26.78557
+200,India,2020,Non-Alloy Finished Steel,Maharashtra,Stainless Steel,20.0
+201,India,2021,Non-Alloy Finished Steel,Manipur,HR Coil,25.714
+202,India,2021,Non-Alloy Finished Steel,Telangana,HR Coil,32.714
+203,India,2019,Non-Alloy Finished Steel,West Bengal,Bars and Rods,42.35714
+204,India,2020,Non-Alloy Finished Steel,Jharkhand,Galvanized Iron Coil,24.642
+205,India,2021,Non-Alloy Finished Steel,Haryana,Galvanized Iron Coil,37.32985
+206,India,2021,Non-Alloy Finished Steel,Tamil Nadu,HR Coil,8.571425
+207,India,2020,Non-Alloy Finished Steel,Rajasthan,Bars and Rods,24.87707
+208,India,2021,Non-Alloy Finished Steel,Chhattisgarh,HR Coil,7.14257
+209,India,2020,Non-Alloy Finished Steel,Kerala,Galvanized Iron Coil,54.2857
+210,India,2021,Non-Alloy Finished Steel,Rajasthan,Galvanized Iron Coil,31.42825
+211,India,2020,Non-Alloy Finished Steel,Arunachal Pradesh,Bars and Rods,54.5714
+212,India,2021,Non-Alloy Finished Steel,Madhya Pradesh,Stainless Steel,45.714
+213,India,2021,Non-Alloy Finished Steel,Uttar Pradesh,Bars and Rods,52.85714
+214,India,2020,Non-Alloy Finished Steel,Karnataka,Galvanized Iron Coil,47.142849999999996
+215,India,2020,Non-Alloy Finished Steel,Karnataka,Galvanized Iron Coil,30.99925
+216,India,2021,Non-Alloy Finished Steel,Madhya Pradesh,Stainless Steel,54.2857
+217,India,2021,Non-Alloy Finished Steel,Andhra Pradesh,Stainless Steel,46.257
+218,India,2021,Non-Alloy Finished Steel,Assam,Bars and Rods,32.35714
+219,India,2021,Non-Alloy Finished Steel,Madhya Pradesh,Stainless Steel,44.8284
+220,India,2020,Non-Alloy Finished Steel,Kerala,Bars and Rods,60.7857
+221,India,2021,Non-Alloy Finished Steel,Manipur,Bars and Rods,27.32855
+222,India,2020,Non-Alloy Finished Steel,Karnataka,Galvanized Iron Coil,54.68557
+223,India,2021,Non-Alloy Finished Steel,Madhya Pradesh,Stainless Steel,53.1427
+224,India,2020,Non-Alloy Finished Steel,Madhya Pradesh,Stainless Steel,37.142849999999996
+225,India,2021,Non-Alloy Finished Steel,Maharashtra,Stainless Steel,33.1427
+226,India,2021,Non-Alloy Finished Steel,Karnataka,Galvanized Iron Coil,28.57142
+227,India,2020,Non-Alloy Finished Steel,Odisha,Stainless Steel,32.868285
+228,India,2020,Non-Alloy Finished Steel,Rajasthan,Galvanized Iron Coil,38.542
+229,India,2020,Non-Alloy Finished Steel,Andhra Pradesh,Galvanized Iron Coil,32.42785
+230,India,2020,Non-Alloy Finished Steel,Andhra Pradesh,Galvanized Iron Coil,24.21427
+231,India,2021,Non-Alloy Finished Steel,Chandigarh,Stainless Steel,54.8284
+232,India,2021,Non-Alloy Finished Steel,Bihar,Bars and Rods,27.499699999999997
+233,India,2021,Non-Alloy Finished Steel,Mizoram,HR Coil,17.6427
+234,India,2021,Non-Alloy Finished Steel,Gujarat,HR Coil,28.57142
+235,India,2021,Non-Alloy Finished Steel,Punjab,Stainless Steel,54.8284
+236,India,2021,Non-Alloy Finished Steel,Karnataka,HR Coil,32.85685
+237,India,2021,Non-Alloy Finished Steel,Manipur,HR Coil,34.28557
+238,India,2021,Non-Alloy Finished Steel,Jammu and Kashmir,Bars and Rods,37.142849999999996
+239,India,2021,Non-Alloy Finished Steel,Jharkhand,Galvanized Iron Coil,54.2857
+240,India,2021,Non-Alloy Finished Steel,Andhra Pradesh,HR Coil,47.214
+241,India,2021,Non-Alloy Finished Steel,Odisha,HR Coil,7.5427
+242,India,2021,Non-Alloy Finished Steel,Jammu and Kashmir,Stainless Steel,45.5714
+243,India,2021,Non-Alloy Finished Steel,Gujarat,HR Coil,49.999849999999995
+244,India,2021,Non-Alloy Finished Steel,Chhattisgarh,HR Coil,2.85714
+245,India,2019,Non-Alloy Finished Steel,Karnataka,Galvanized Iron Coil,52.2141
+246,India,2021,Non-Alloy Finished Steel,Uttarakhand,Bars and Rods,60.7857
+247,India,2021,Non-Alloy Finished Steel,Karnataka,Galvanized Iron Coil,58.97125
+248,India,2021,Non-Alloy Finished Steel,Jharkhand,Galvanized Iron Coil,32.42785
+249,India,2021,Non-Alloy Finished Steel,Delhi,Galvanized Iron Coil,31.42825
+250,India,2021,Non-Alloy Finished Steel,Gujarat,Galvanized Iron Coil,52.8571
+251,India,2021,Non-Alloy Finished Steel,Maharashtra,Stainless Steel,45.71425
+252,India,2020,Non-Alloy Finished Steel,Uttarakhand,HR Coil,42.71427
+253,India,2021,Non-Alloy Finished Steel,Madhya Pradesh,Stainless Steel,20.2857
+254,India,2020,Non-Alloy Finished Steel,Andhra Pradesh,Galvanized Iron Coil,44.50207
+255,India,2021,Non-Alloy Finished Steel,Andhra Pradesh,Galvanized Iron Coil,40.0
+256,India,2021,Non-Alloy Finished Steel,Tripura,HR Coil,26.78557
+257,India,2021,Non-Alloy Finished Steel,Jharkhand,Galvanized Iron Coil,38.5711
+258,India,2021,Non-Alloy Finished Steel,Assam,Bars and Rods,43.448499999999996
+259,India,2019,Non-Alloy Finished Steel,Manipur,Bars and Rods,16.64257
+260,India,2020,Non-Alloy Finished Steel,Karnataka,Galvanized Iron Coil,33.2605
+261,India,2021,Non-Alloy Finished Steel,Jharkhand,Galvanized Iron Coil,21.71427
+262,India,2021,Non-Alloy Finished Steel,Goa,HR Coil,1.6142699999999999
+263,India,2020,Non-Alloy Finished Steel,Odisha,Stainless Steel,46.542699999999996
+264,India,2021,Non-Alloy Finished Steel,Madhya Pradesh,Galvanized Iron Coil,56.3305
+265,India,2021,Non-Alloy Finished Steel,Tamil Nadu,Stainless Steel,18.857100000000003
+266,India,2021,Non-Alloy Finished Steel,Bihar,Stainless Steel,32.868285
+267,India,2020,Non-Alloy Finished Steel,Telangana,Galvanized Iron Coil,54.703
+268,India,2021,Non-Alloy Finished Steel,Mizoram,HR Coil,57.71425
+269,India,2020,Non-Alloy Finished Steel,Mizoram,Bars and Rods,6.3427
+270,India,2021,Non-Alloy Finished Steel,Chandigarh,Stainless Steel,20.2857
+271,India,2021,Non-Alloy Finished Steel,Gujarat,Bars and Rods,11.42857
+272,India,2021,Non-Alloy Finished Steel,Maharashtra,Stainless Steel,46.542699999999996
+273,India,2021,Non-Alloy Finished Steel,Maharashtra,Galvanized Iron Coil,59.99995
+274,India,2021,Non-Alloy Finished Steel,Maharashtra,Stainless Steel,37.868285
+275,India,2021,Non-Alloy Finished Steel,Goa,HR Coil,36.64282
+276,India,2021,Non-Alloy Finished Steel,Jammu and Kashmir,Bars and Rods,31.61427
+277,India,2021,Non-Alloy Finished Steel,Uttarakhand,HR Coil,42.2857
+278,India,2021,Non-Alloy Finished Steel,Karnataka,Galvanized Iron Coil,22.85714
+279,India,2021,Non-Alloy Finished Steel,Madhya Pradesh,Stainless Steel,46.257
+280,India,2021,Non-Alloy Finished Steel,Uttarakhand,Bars and Rods,64.28567000000001
+281,India,2020,Non-Alloy Finished Steel,Maharashtra,Stainless Steel,33.1427
+282,India,2021,Non-Alloy Finished Steel,Mizoram,HR Coil,28.49995
+283,India,2021,Non-Alloy Finished Steel,Andhra Pradesh,HR Coil,48.999849999999995
+284,India,2020,Non-Alloy Finished Steel,Meghalaya,HR Coil,19.9997
+285,India,2021,Non-Alloy Finished Steel,Odisha,HR Coil,17.1428
+286,India,2019,Non-Alloy Finished Steel,Haryana,Galvanized Iron Coil,21.71427
+287,India,2021,Non-Alloy Finished Steel,Nagaland,Bars and Rods,39.9997
+288,India,2020,Non-Alloy Finished Steel,West Bengal,HR Coil,57.357
+289,India,2021,Non-Alloy Finished Steel,Maharashtra,Galvanized Iron Coil,47.42855
+290,India,2021,Non-Alloy Finished Steel,Jammu and Kashmir,Stainless Steel,59.114
+291,India,2021,Non-Alloy Finished Steel,Arunachal Pradesh,HR Coil,22.85714
+292,India,2020,Non-Alloy Finished Steel,Maharashtra,Stainless Steel,21.153985
+293,India,2021,Non-Alloy Finished Steel,Telangana,Galvanized Iron Coil,54.2857
+294,India,2020,Non-Alloy Finished Steel,Himachal Pradesh,Bars and Rods,23.6342
+295,India,2021,Non-Alloy Finished Steel,Jharkhand,Galvanized Iron Coil,37.32985
+296,India,2021,Non-Alloy Finished Steel,Karnataka,Bars and Rods,32.85714
+297,India,2021,Non-Alloy Finished Steel,Arunachal Pradesh,Bars and Rods,1.6214
+298,India,2021,Non-Alloy Finished Steel,Maharashtra,Stainless Steel,44.8284
+299,India,2021,Non-Alloy Finished Steel,Jammu and Kashmir,Bars and Rods,16.64257
+300,India,2021,Non-Alloy Finished Steel,Uttarakhand,HR Coil,31.42825
+301,India,2021,Non-Alloy Finished Steel,Maharashtra,Stainless Steel,41.428399999999996
+302,India,2021,Non-Alloy Finished Steel,Odisha,HR Coil,25.5427
+303,India,2020,Non-Alloy Finished Steel,Odisha,Stainless Steel,45.714
+304,India,2020,Non-Alloy Finished Steel,Madhya Pradesh,Stainless Steel,54.8284
+305,India,2021,Non-Alloy Finished Steel,Madhya Pradesh,Stainless Steel,71.5427
+306,India,2021,Non-Alloy Finished Steel,Kerala,Galvanized Iron Coil,48.58885
+307,India,2020,Non-Alloy Finished Steel,Karnataka,Galvanized Iron Coil,60.39985
+308,India,2021,Non-Alloy Finished Steel,Maharashtra,Stainless Steel,71.5427
+309,India,2019,Non-Alloy Finished Steel,Rajasthan,Galvanized Iron Coil,54.28567
+310,India,2020,Non-Alloy Finished Steel,Maharashtra,Stainless Steel,25.439585
+311,India,2020,Non-Alloy Finished Steel,Rajasthan,Galvanized Iron Coil,52.2141
+312,India,2020,Non-Alloy Finished Steel,Karnataka,Galvanized Iron Coil,52.614
+313,India,2021,Non-Alloy Finished Steel,West Bengal,Bars and Rods,54.87707
+314,India,2021,Non-Alloy Finished Steel,Andhra Pradesh,Galvanized Iron Coil,42.7857
+315,India,2021,Non-Alloy Finished Steel,Karnataka,Galvanized Iron Coil,47.142849999999996
+316,India,2021,Non-Alloy Finished Steel,Chhattisgarh,Galvanized Iron Coil,45.99995
+317,India,2021,Non-Alloy Finished Steel,Gujarat,Galvanized Iron Coil,47.42855
+318,India,2021,Non-Alloy Finished Steel,Maharashtra,Galvanized Iron Coil,21.71427
+319,India,2021,Non-Alloy Finished Steel,Uttar Pradesh,Bars and Rods,57.21427
+320,India,2021,Non-Alloy Finished Steel,Odisha,Stainless Steel,45.5714
+321,India,2021,Non-Alloy Finished Steel,Andhra Pradesh,Bars and Rods,44.285650000000004
+322,India,2021,Non-Alloy Finished Steel,Haryana,Galvanized Iron Coil,48.58885
+323,India,2021,Non-Alloy Finished Steel,Chhattisgarh,Galvanized Iron Coil,54.3031
+324,India,2021,Non-Alloy Finished Steel,Assam,HR Coil,57.49995
+325,India,2021,Non-Alloy Finished Steel,Maharashtra,Stainless Steel,57.42855
+326,India,2020,Non-Alloy Finished Steel,Mizoram,HR Coil,12.856855
+327,India,2020,Non-Alloy Finished Steel,Arunachal Pradesh,Stainless Steel,5.16517
+328,India,2021,Non-Alloy Finished Steel,Kerala,Galvanized Iron Coil,21.71427
+329,India,2021,Non-Alloy Finished Steel,Odisha,Stainless Steel,27.1428
+330,India,2021,Non-Alloy Finished Steel,Himachal Pradesh,HR Coil,54.2857
+331,India,2021,Non-Alloy Finished Steel,Bihar,HR Coil,34.285705
+332,India,2021,Non-Alloy Finished Steel,Chhattisgarh,HR Coil,43.568
+333,India,2021,Non-Alloy Finished Steel,Uttar Pradesh,Bars and Rods,2.86427
+334,India,2021,Non-Alloy Finished Steel,Madhya Pradesh,Stainless Steel,46.542699999999996
+335,India,2021,Non-Alloy Finished Steel,Maharashtra,Stainless Steel,53.1427
+336,India,2021,Non-Alloy Finished Steel,Uttar Pradesh,Galvanized Iron Coil,39.6427
+337,India,2021,Non-Alloy Finished Steel,Tripura,Bars and Rods,37.142849999999996
+338,India,2020,Non-Alloy Finished Steel,Nagaland,HR Coil,18.28557
+339,India,2021,Non-Alloy Finished Steel,Karnataka,Bars and Rods,57.14282
+340,India,2021,Non-Alloy Finished Steel,Uttarakhand,HR Coil,25.069699999999997
+341,India,2021,Non-Alloy Finished Steel,Maharashtra,Stainless Steel,12.868285
+342,India,2021,Non-Alloy Finished Steel,Maharashtra,Stainless Steel,48.8571
+343,India,2021,Non-Alloy Finished Steel,Odisha,Stainless Steel,20.2857
+344,India,2021,Non-Alloy Finished Steel,Gujarat,HR Coil,25.5427
+345,India,2021,Non-Alloy Finished Steel,Uttar Pradesh,Galvanized Iron Coil,30.99925
+346,India,2020,Non-Alloy Finished Steel,Telangana,HR Coil,36.1427
+347,India,2021,Non-Alloy Finished Steel,Karnataka,Bars and Rods,12.357140000000001
+348,India,2021,Non-Alloy Finished Steel,Chhattisgarh,Bars and Rods,43.448499999999996
+349,India,2021,Non-Alloy Finished Steel,West Bengal,Bars and Rods,51.42857
+350,India,2021,Non-Alloy Finished Steel,Gujarat,Bars and Rods,50.59135
+351,India,2020,Non-Alloy Finished Steel,Bihar,Bars and Rods,34.71427
+352,India,2021,Non-Alloy Finished Steel,Karnataka,Galvanized Iron Coil,47.42855
+353,India,2020,Non-Alloy Finished Steel,Andhra Pradesh,HR Coil,17.0714
+354,India,2021,Non-Alloy Finished Steel,Jammu and Kashmir,Stainless Steel,45.2857
+355,India,2021,Non-Alloy Finished Steel,Madhya Pradesh,Stainless Steel,45.2857
+356,India,2021,Non-Alloy Finished Steel,Jammu and Kashmir,Stainless Steel,44.8284
+357,India,2021,Non-Alloy Finished Steel,Mizoram,HR Coil,9.999970000000001
+358,India,2021,Non-Alloy Finished Steel,Rajasthan,Galvanized Iron Coil,45.99995
+359,India,2021,Non-Alloy Finished Steel,Jammu and Kashmir,Bars and Rods,51.42857
+360,India,2020,Non-Alloy Finished Steel,Delhi,Galvanized Iron Coil,32.42785
+361,India,2020,Non-Alloy Finished Steel,Andhra Pradesh,Stainless Steel,25.439585
+362,India,2021,Non-Alloy Finished Steel,Karnataka,HR Coil,51.4285
+363,India,2020,Non-Alloy Finished Steel,Gujarat,Galvanized Iron Coil,58.57135
+364,India,2019,Non-Alloy Finished Steel,Himachal Pradesh,Bars and Rods,54.87707
+365,India,2021,Non-Alloy Finished Steel,Delhi,Galvanized Iron Coil,37.32985
+366,India,2020,Non-Alloy Finished Steel,Arunachal Pradesh,Bars and Rods,16.157
+367,India,2019,Non-Alloy Finished Steel,Kerala,Galvanized Iron Coil,31.42825
+368,India,2020,Non-Alloy Finished Steel,Jharkhand,Galvanized Iron Coil,52.8571
+369,India,2021,Non-Alloy Finished Steel,Chhattisgarh,HR Coil,12.856855
+370,India,2020,Non-Alloy Finished Steel,Chhattisgarh,HR Coil,48.57142
+371,India,2021,Non-Alloy Finished Steel,Andhra Pradesh,Stainless Steel,53.8571
+372,India,2020,Non-Alloy Finished Steel,Chhattisgarh,Galvanized Iron Coil,26.71357
+373,India,2021,Non-Alloy Finished Steel,Meghalaya,HR Coil,51.07125
+374,India,2021,Non-Alloy Finished Steel,Assam,HR Coil,31.4284
+375,India,2021,Non-Alloy Finished Steel,Bihar,Stainless Steel,20.0
+376,India,2021,Non-Alloy Finished Steel,Odisha,HR Coil,37.14282
+377,India,2021,Non-Alloy Finished Steel,Kerala,HR Coil,14.285400000000001
+378,India,2021,Non-Alloy Finished Steel,Assam,Bars and Rods,8.571425
+379,India,2021,Non-Alloy Finished Steel,Karnataka,Galvanized Iron Coil,44.21427
+380,India,2021,Non-Alloy Finished Steel,Madhya Pradesh,Stainless Steel,20.2857
+381,India,2019,Non-Alloy Finished Steel,Tamil Nadu,Bars and Rods,29.6055
+382,India,2021,Non-Alloy Finished Steel,Karnataka,Galvanized Iron Coil,38.1421
+383,India,2020,Non-Alloy Finished Steel,Bihar,Bars and Rods,13.299855
+384,India,2020,Non-Alloy Finished Steel,Uttarakhand,HR Coil,32.85685
+385,India,2020,Non-Alloy Finished Steel,Maharashtra,Stainless Steel,41.428399999999996
+386,India,2021,Non-Alloy Finished Steel,Tamil Nadu,HR Coil,34.285650000000004
+387,India,2021,Non-Alloy Finished Steel,Maharashtra,Stainless Steel,27.1428
+388,India,2021,Non-Alloy Finished Steel,Rajasthan,Galvanized Iron Coil,35.90125
+389,India,2021,Non-Alloy Finished Steel,Uttar Pradesh,Bars and Rods,9.999955
+390,India,2021,Non-Alloy Finished Steel,Odisha,Stainless Steel,54.8284
+391,India,2021,Non-Alloy Finished Steel,Tamil Nadu,Stainless Steel,65.5714
+392,India,2021,Non-Alloy Finished Steel,Andhra Pradesh,Stainless Steel,33.1427
+393,India,2020,Non-Alloy Finished Steel,Kerala,Galvanized Iron Coil,48.78775
+394,India,2021,Non-Alloy Finished Steel,Uttar Pradesh,Bars and Rods,48.57142
+395,India,2021,Non-Alloy Finished Steel,Rajasthan,Bars and Rods,22.85714
+396,India,2020,Non-Alloy Finished Steel,Jharkhand,Galvanized Iron Coil,54.2857
+397,India,2021,Non-Alloy Finished Steel,Karnataka,Galvanized Iron Coil,40.2857
+398,India,2020,Non-Alloy Finished Steel,Punjab,Stainless Steel,41.428399999999996
+399,India,2019,Non-Alloy Finished Steel,Rajasthan,Galvanized Iron Coil,11.61557
+400,India,2021,Non-Alloy Finished Steel,Maharashtra,Stainless Steel,65.5714
+401,India,2021,Non-Alloy Finished Steel,Tamil Nadu,Stainless Steel,54.8284
+402,India,2021,Non-Alloy Finished Steel,Uttar Pradesh,Bars and Rods,24.8842
+403,India,2020,Non-Alloy Finished Steel,Tripura,HR Coil,42.71427
+404,India,2021,Non-Alloy Finished Steel,Rajasthan,Galvanized Iron Coil,44.50207
+405,India,2021,Non-Alloy Finished Steel,Gujarat,Galvanized Iron Coil,43.0441
+406,India,2021,Non-Alloy Finished Steel,Karnataka,Galvanized Iron Coil,32.85685
+407,India,2021,Non-Alloy Finished Steel,Andhra Pradesh,Stainless Steel,20.2857
+408,India,2021,Non-Alloy Finished Steel,Goa,HR Coil,22.857100000000003
+409,India,2020,Non-Alloy Finished Steel,Chhattisgarh,HR Coil,4.71427
+410,India,2021,Non-Alloy Finished Steel,Madhya Pradesh,Stainless Steel,53.8571
+411,India,2020,Non-Alloy Finished Steel,Tripura,HR Coil,59.142849999999996
+412,India,2021,Non-Alloy Finished Steel,Jammu and Kashmir,Stainless Steel,18.5714
+413,India,2021,Non-Alloy Finished Steel,Odisha,Stainless Steel,72.514
+414,India,2021,Non-Alloy Finished Steel,Assam,Bars and Rods,39.999955
+415,India,2021,Non-Alloy Finished Steel,Maharashtra,Bars and Rods,9.4427
+416,India,2021,Non-Alloy Finished Steel,Jharkhand,Galvanized Iron Coil,40.78557
+417,India,2021,Non-Alloy Finished Steel,Tamil Nadu,Bars and Rods,47.21427
+418,India,2021,Non-Alloy Finished Steel,Uttarakhand,HR Coil,31.42825
+419,India,2021,Non-Alloy Finished Steel,Rajasthan,Bars and Rods,1.6142699999999999
+420,India,2021,Non-Alloy Finished Steel,Rajasthan,Galvanized Iron Coil,51.4285
+421,India,2021,Non-Alloy Finished Steel,Gujarat,HR Coil,21.428555
+422,India,2021,Non-Alloy Finished Steel,Jammu and Kashmir,Bars and Rods,52.8571
+423,India,2020,Non-Alloy Finished Steel,Chhattisgarh,HR Coil,31.42825
+424,India,2021,Non-Alloy Finished Steel,Punjab,HR Coil,23.21257
+425,India,2021,Non-Alloy Finished Steel,Haryana,Bars and Rods,47.1428
+426,India,2021,Non-Alloy Finished Steel,Andhra Pradesh,Stainless Steel,32.857
+427,India,2020,Non-Alloy Finished Steel,Bihar,Bars and Rods,56.3056
+428,India,2021,Non-Alloy Finished Steel,Karnataka,Galvanized Iron Coil,28.7875
+429,India,2021,Non-Alloy Finished Steel,Chhattisgarh,Galvanized Iron Coil,32.85685
+430,India,2021,Non-Alloy Finished Steel,Karnataka,HR Coil,34.49985
+431,India,2020,Non-Alloy Finished Steel,Karnataka,Bars and Rods,56.0714
+432,India,2021,Non-Alloy Finished Steel,Punjab,Stainless Steel,63.39985
+433,India,2021,Non-Alloy Finished Steel,Uttarakhand,HR Coil,8.9997
+434,India,2020,Non-Alloy Finished Steel,Nagaland,Bars and Rods,55.71427
+435,India,2020,Non-Alloy Finished Steel,Jharkhand,Galvanized Iron Coil,44.21427
+436,India,2021,Non-Alloy Finished Steel,Punjab,Stainless Steel,45.71425
+437,India,2021,Non-Alloy Finished Steel,Tripura,HR Coil,31.42825
+438,India,2021,Non-Alloy Finished Steel,Gujarat,HR Coil,12.357140000000001
+439,India,2021,Non-Alloy Finished Steel,Tripura,HR Coil,54.6427
+440,India,2021,Non-Alloy Finished Steel,Maharashtra,Stainless Steel,32.857
+441,India,2020,Non-Alloy Finished Steel,Haryana,Galvanized Iron Coil,49.92855
+442,India,2020,Non-Alloy Finished Steel,Gujarat,Bars and Rods,36.71427
+443,India,2021,Non-Alloy Finished Steel,Tamil Nadu,Stainless Steel,41.428399999999996
+444,India,2021,Non-Alloy Finished Steel,Maharashtra,Stainless Steel,37.1428
+445,India,2021,Non-Alloy Finished Steel,Mizoram,HR Coil,27.497999999999998
+446,India,2019,Non-Alloy Finished Steel,Delhi,Galvanized Iron Coil,38.971
+447,India,2020,Non-Alloy Finished Steel,Nagaland,HR Coil,27.142855
+448,India,2021,Non-Alloy Finished Steel,Uttar Pradesh,Galvanized Iron Coil,59.99995
+449,India,2021,Non-Alloy Finished Steel,West Bengal,Bars and Rods,54.87707
+450,India,2020,Non-Alloy Finished Steel,Odisha,HR Coil,25.642699999999998
+451,India,2021,Non-Alloy Finished Steel,Madhya Pradesh,Stainless Steel,58.1427
+452,India,2021,Non-Alloy Finished Steel,Jammu and Kashmir,Stainless Steel,40.2857
+453,India,2021,Non-Alloy Finished Steel,Jharkhand,Galvanized Iron Coil,59.99995
+454,India,2021,Non-Alloy Finished Steel,Karnataka,HR Coil,14.285400000000001
+455,India,2020,Non-Alloy Finished Steel,Chhattisgarh,HR Coil,30.4284
+456,India,2021,Non-Alloy Finished Steel,Chandigarh,Stainless Steel,37.142849999999996
+457,India,2020,Non-Alloy Finished Steel,Gujarat,HR Coil,51.7857
+458,India,2021,Non-Alloy Finished Steel,Uttarakhand,Bars and Rods,54.5714
+459,India,2021,Non-Alloy Finished Steel,Odisha,Stainless Steel,32.868285
+460,India,2020,Non-Alloy Finished Steel,Odisha,HR Coil,38.57142
+461,India,2021,Non-Alloy Finished Steel,Bihar,HR Coil,57.49995
+462,India,2021,Non-Alloy Finished Steel,Goa,Bars and Rods,19.99997
+463,India,2020,Non-Alloy Finished Steel,Nagaland,Bars and Rods,62.85714
+464,India,2021,Non-Alloy Finished Steel,Karnataka,HR Coil,52.499849999999995
+465,India,2020,Non-Alloy Finished Steel,Gujarat,HR Coil,27.142855
+466,India,2021,Non-Alloy Finished Steel,Himachal Pradesh,HR Coil,31.42825
+467,India,2021,Non-Alloy Finished Steel,Odisha,Stainless Steel,28.857100000000003
+468,India,2020,Non-Alloy Finished Steel,West Bengal,HR Coil,47.142849999999996
+469,India,2021,Non-Alloy Finished Steel,Haryana,Bars and Rods,44.87707
+470,India,2021,Non-Alloy Finished Steel,Delhi,Bars and Rods,54.87707
+471,India,2019,Non-Alloy Finished Steel,Rajasthan,Bars and Rods,52.85714
+472,India,2020,Non-Alloy Finished Steel,Jharkhand,Galvanized Iron Coil,35.90125
+473,India,2021,Non-Alloy Finished Steel,Rajasthan,HR Coil,53.42857
+474,India,2020,Non-Alloy Finished Steel,Punjab,Stainless Steel,12.868285
+475,India,2020,Non-Alloy Finished Steel,Uttarakhand,HR Coil,25.069699999999997
+476,India,2021,Non-Alloy Finished Steel,Goa,Bars and Rods,36.64282
+477,India,2021,Non-Alloy Finished Steel,Uttar Pradesh,Bars and Rods,11.4357
+478,India,2020,Non-Alloy Finished Steel,Tripura,HR Coil,7.328555
+479,India,2021,Non-Alloy Finished Steel,Delhi,Galvanized Iron Coil,46.499849999999995
+480,India,2021,Non-Alloy Finished Steel,Punjab,HR Coil,27.14282
+481,India,2020,Non-Alloy Finished Steel,Chhattisgarh,Galvanized Iron Coil,41.71427
+482,India,2021,Non-Alloy Finished Steel,Karnataka,Galvanized Iron Coil,40.78557
+483,India,2021,Non-Alloy Finished Steel,Chandigarh,Stainless Steel,41.428399999999996
+484,India,2021,Non-Alloy Finished Steel,Madhya Pradesh,Stainless Steel,58.1427
+485,India,2021,Non-Alloy Finished Steel,Arunachal Pradesh,Bars and Rods,27.1428
+486,India,2021,Non-Alloy Finished Steel,Gujarat,Galvanized Iron Coil,27.14282
+487,India,2020,Non-Alloy Finished Steel,Tripura,HR Coil,42.71427
+488,India,2021,Non-Alloy Finished Steel,Andhra Pradesh,Stainless Steel,60.5714
+489,India,2021,Non-Alloy Finished Steel,Chhattisgarh,HR Coil,48.92685
+490,India,2019,Non-Alloy Finished Steel,Bihar,Bars and Rods,39.9997
+491,India,2020,Non-Alloy Finished Steel,Sikkim,HR Coil,35.714
+492,India,2021,Non-Alloy Finished Steel,Gujarat,Bars and Rods,57.14282
+493,India,2019,Non-Alloy Finished Steel,Goa,Bars and Rods,39.999970000000005
+494,India,2021,Non-Alloy Finished Steel,Maharashtra,Stainless Steel,28.857100000000003
+495,India,2021,Non-Alloy Finished Steel,Bihar,Bars and Rods,34.28557
+496,India,2021,Non-Alloy Finished Steel,Chandigarh,Stainless Steel,28.5714
+497,India,2020,Non-Alloy Finished Steel,Mizoram,HR Coil,27.14282
+498,India,2021,Non-Alloy Finished Steel,Chhattisgarh,HR Coil,35.71425
+499,India,2020,Non-Alloy Finished Steel,Odisha,Stainless Steel,33.1427
+500,India,2021,Non-Alloy Finished Steel,Rajasthan,Bars and Rods,57.7342
+501,India,2021,Non-Alloy Finished Steel,Maharashtra,Stainless Steel,58.1427
+502,India,2020,Non-Alloy Finished Steel,Tamil Nadu,Bars and Rods,15.714099999999998
+503,India,2021,Non-Alloy Finished Steel,Mizoram,HR Coil,54.2857
+504,India,2021,Non-Alloy Finished Steel,Kerala,Galvanized Iron Coil,41.71427
+505,India,2021,Non-Alloy Finished Steel,Rajasthan,HR Coil,32.85714
+506,India,2021,Non-Alloy Finished Steel,Odisha,Stainless Steel,45.2857
+507,India,2021,Non-Alloy Finished Steel,Maharashtra,Stainless Steel,37.142849999999996
+508,India,2021,Non-Alloy Finished Steel,Bihar,Stainless Steel,20.5714
+509,India,2021,Non-Alloy Finished Steel,Manipur,Bars and Rods,31.42825
+510,India,2021,Non-Alloy Finished Steel,West Bengal,HR Coil,54.2857
+511,India,2021,Non-Alloy Finished Steel,Uttar Pradesh,Bars and Rods,53.5714
+512,India,2020,Non-Alloy Finished Steel,Gujarat,HR Coil,31.4284
+513,India,2021,Non-Alloy Finished Steel,West Bengal,HR Coil,52.8571
+514,India,2020,Non-Alloy Finished Steel,Kerala,Galvanized Iron Coil,24.50207
+515,India,2021,Non-Alloy Finished Steel,Tamil Nadu,HR Coil,23.28557
+516,India,2020,Non-Alloy Finished Steel,Jammu and Kashmir,Stainless Steel,45.2857
+517,India,2021,Non-Alloy Finished Steel,Gujarat,HR Coil,27.570999999999998
+518,India,2021,Non-Alloy Finished Steel,Uttarakhand,Bars and Rods,49.999849999999995
+519,India,2020,Non-Alloy Finished Steel,Assam,Bars and Rods,37.14257
+520,India,2021,Non-Alloy Finished Steel,Meghalaya,HR Coil,18.857100000000003
+521,India,2021,Non-Alloy Finished Steel,Gujarat,HR Coil,44.28557
+522,India,2021,Non-Alloy Finished Steel,Tripura,Bars and Rods,45.71427
+523,India,2021,Non-Alloy Finished Steel,Rajasthan,HR Coil,14.471400000000001
+524,India,2021,Non-Alloy Finished Steel,Bihar,HR Coil,4.71427
+525,India,2020,Non-Alloy Finished Steel,Madhya Pradesh,Stainless Steel,41.428399999999996
+526,India,2020,Non-Alloy Finished Steel,Odisha,Stainless Steel,59.114
+527,India,2021,Non-Alloy Finished Steel,Arunachal Pradesh,HR Coil,13.5714
+528,India,2021,Non-Alloy Finished Steel,Gujarat,Bars and Rods,39.9997
+529,India,2021,Non-Alloy Finished Steel,Gujarat,Galvanized Iron Coil,24.642
+530,India,2021,Non-Alloy Finished Steel,Uttarakhand,HR Coil,36.64282
+531,India,2021,Non-Alloy Finished Steel,Madhya Pradesh,Galvanized Iron Coil,38.714
+532,India,2021,Non-Alloy Finished Steel,Jammu and Kashmir,Stainless Steel,54.8284
+533,India,2020,Non-Alloy Finished Steel,Rajasthan,HR Coil,64.0
+534,India,2021,Non-Alloy Finished Steel,Gujarat,HR Coil,12.357140000000001
+535,India,2021,Non-Alloy Finished Steel,Kerala,HR Coil,52.8571
+536,India,2020,Non-Alloy Finished Steel,Tamil Nadu,Bars and Rods,14.285400000000001
+537,India,2021,Non-Alloy Finished Steel,Tamil Nadu,Stainless Steel,41.428399999999996
+538,India,2021,Non-Alloy Finished Steel,Kerala,HR Coil,48.57142
+539,India,2021,Non-Alloy Finished Steel,Andhra Pradesh,Stainless Steel,54.8284
+540,India,2021,Non-Alloy Finished Steel,Jammu and Kashmir,Stainless Steel,20.0
+541,India,2021,Non-Alloy Finished Steel,Uttar Pradesh,Galvanized Iron Coil,40.5714
+542,India,2019,Non-Alloy Finished Steel,Nagaland,Bars and Rods,22.857100000000003
+543,India,2021,Non-Alloy Finished Steel,Karnataka,Galvanized Iron Coil,47.142849999999996
+544,India,2021,Non-Alloy Finished Steel,Mizoram,HR Coil,34.285650000000004
+545,India,2021,Non-Alloy Finished Steel,Karnataka,Galvanized Iron Coil,52.8571
+546,India,2021,Non-Alloy Finished Steel,Chhattisgarh,Galvanized Iron Coil,47.142849999999996
+547,India,2021,Non-Alloy Finished Steel,Assam,Bars and Rods,16.157
+548,India,2021,Non-Alloy Finished Steel,Odisha,Stainless Steel,20.5714
+549,India,2021,Non-Alloy Finished Steel,Delhi,Galvanized Iron Coil,29.543999999999997
+550,India,2021,Non-Alloy Finished Steel,Telangana,Bars and Rods,28.428555
+551,India,2021,Non-Alloy Finished Steel,Andhra Pradesh,Galvanized Iron Coil,45.8592
+552,India,2021,Non-Alloy Finished Steel,Gujarat,Galvanized Iron Coil,54.2857
+553,India,2021,Non-Alloy Finished Steel,Telangana,Bars and Rods,34.2857
+554,India,2021,Non-Alloy Finished Steel,Chhattisgarh,Bars and Rods,55.5714
+555,India,2020,Non-Alloy Finished Steel,Madhya Pradesh,Stainless Steel,28.857100000000003
+556,India,2021,Non-Alloy Finished Steel,Maharashtra,Stainless Steel,37.142849999999996
+557,India,2021,Non-Alloy Finished Steel,Jharkhand,Galvanized Iron Coil,48.58885
+558,India,2020,Non-Alloy Finished Steel,Tamil Nadu,HR Coil,22.0427
+559,India,2021,Non-Alloy Finished Steel,Tamil Nadu,HR Coil,28.49995
+560,India,2019,Non-Alloy Finished Steel,Gujarat,Bars and Rods,30.591355
+561,India,2021,Non-Alloy Finished Steel,Bihar,Bars and Rods,31.61427
+562,India,2021,Non-Alloy Finished Steel,Odisha,Stainless Steel,28.857100000000003
+563,India,2020,Non-Alloy Finished Steel,Bihar,Bars and Rods,46.897
+564,India,2021,Non-Alloy Finished Steel,Punjab,Stainless Steel,31.4284
+565,India,2021,Non-Alloy Finished Steel,Haryana,Galvanized Iron Coil,41.731700000000004
+566,India,2021,Non-Alloy Finished Steel,Madhya Pradesh,Stainless Steel,59.114
+567,India,2021,Non-Alloy Finished Steel,Odisha,HR Coil,46.0714
+568,India,2020,Non-Alloy Finished Steel,Madhya Pradesh,Galvanized Iron Coil,37.32985
+569,India,2021,Non-Alloy Finished Steel,Chandigarh,Bars and Rods,24.2927
+570,India,2021,Non-Alloy Finished Steel,Maharashtra,Galvanized Iron Coil,60.39985
+571,India,2021,Non-Alloy Finished Steel,Maharashtra,Galvanized Iron Coil,49.92855
+572,India,2020,Non-Alloy Finished Steel,Rajasthan,Bars and Rods,46.897
+573,India,2021,Non-Alloy Finished Steel,Gujarat,Galvanized Iron Coil,43.0714
+574,India,2021,Non-Alloy Finished Steel,Himachal Pradesh,Bars and Rods,27.142699999999998
+575,India,2021,Non-Alloy Finished Steel,Jammu and Kashmir,Stainless Steel,11.153985
+576,India,2020,Non-Alloy Finished Steel,Himachal Pradesh,HR Coil,24.28557
+577,India,2019,Non-Alloy Finished Steel,Kerala,Galvanized Iron Coil,54.3031
+578,India,2021,Non-Alloy Finished Steel,Manipur,HR Coil,19.9997
+579,India,2021,Non-Alloy Finished Steel,Gujarat,Galvanized Iron Coil,45.07125
+580,India,2021,Non-Alloy Finished Steel,Andhra Pradesh,Stainless Steel,40.5714
+581,India,2020,Non-Alloy Finished Steel,Karnataka,Galvanized Iron Coil,54.3031
+582,India,2020,Non-Alloy Finished Steel,Jharkhand,Galvanized Iron Coil,38.542
+583,India,2021,Non-Alloy Finished Steel,Telangana,HR Coil,8.571425
+584,India,2021,Non-Alloy Finished Steel,Maharashtra,Stainless Steel,20.0
+585,India,2020,Non-Alloy Finished Steel,Gujarat,HR Coil,25.71427
+586,India,2021,Non-Alloy Finished Steel,Gujarat,Bars and Rods,24.28557
+587,India,2021,Non-Alloy Finished Steel,Andhra Pradesh,HR Coil,54.2857
+588,India,2021,Non-Alloy Finished Steel,Madhya Pradesh,Stainless Steel,62.42855
+589,India,2020,Non-Alloy Finished Steel,Gujarat,Galvanized Iron Coil,30.99925
+590,India,2021,Non-Alloy Finished Steel,Jharkhand,Galvanized Iron Coil,45.71425
+591,India,2019,Non-Alloy Finished Steel,Nagaland,Bars and Rods,45.71425
+592,India,2021,Non-Alloy Finished Steel,Assam,HR Coil,27.570999999999998
+593,India,2021,Non-Alloy Finished Steel,Manipur,HR Coil,26.78557
+594,India,2021,Non-Alloy Finished Steel,Odisha,Stainless Steel,28.5714
+595,India,2021,Non-Alloy Finished Steel,Telangana,Bars and Rods,42.0199
+596,India,2020,Non-Alloy Finished Steel,Jammu and Kashmir,Stainless Steel,65.5714
+597,India,2021,Non-Alloy Finished Steel,Punjab,HR Coil,8.4997
+598,India,2020,Non-Alloy Finished Steel,Arunachal Pradesh,Bars and Rods,21.428555
+599,India,2021,Non-Alloy Finished Steel,Tamil Nadu,HR Coil,31.71427
+600,India,2020,Non-Alloy Finished Steel,Odisha,Stainless Steel,63.39985
+601,India,2020,Non-Alloy Finished Steel,Karnataka,Galvanized Iron Coil,22.85714
+602,India,2020,Non-Alloy Finished Steel,West Bengal,Bars and Rods,24.28567
+603,India,2021,Non-Alloy Finished Steel,Jharkhand,Galvanized Iron Coil,50.21635
+604,India,2021,Non-Alloy Finished Steel,Tamil Nadu,HR Coil,37.14282
+605,India,2019,Non-Alloy Finished Steel,West Bengal,Bars and Rods,58.57135
+606,India,2020,Non-Alloy Finished Steel,Odisha,Stainless Steel,20.2857
+607,India,2021,Non-Alloy Finished Steel,Goa,HR Coil,8.4997
+608,India,2020,Non-Alloy Finished Steel,Uttar Pradesh,Galvanized Iron Coil,45.99995
+609,India,2021,Non-Alloy Finished Steel,Nagaland,Bars and Rods,50.59135
+610,India,2020,Non-Alloy Finished Steel,Andhra Pradesh,Galvanized Iron Coil,52.8571
+611,India,2020,Non-Alloy Finished Steel,Haryana,Galvanized Iron Coil,25.999699999999997
+612,India,2021,Non-Alloy Finished Steel,Bihar,Stainless Steel,28.857100000000003
+613,India,2021,Non-Alloy Finished Steel,Maharashtra,Bars and Rods,59.99995
+614,India,2021,Non-Alloy Finished Steel,Jharkhand,Bars and Rods,24.285400000000003
+615,India,2021,Non-Alloy Finished Steel,Telangana,HR Coil,7.14257
+616,India,2021,Non-Alloy Finished Steel,Mizoram,Bars and Rods,8.571425
+617,India,2020,Non-Alloy Finished Steel,Jharkhand,Bars and Rods,47.21427
+618,India,2021,Non-Alloy Finished Steel,Madhya Pradesh,Stainless Steel,20.0
+619,India,2021,Non-Alloy Finished Steel,Uttar Pradesh,Galvanized Iron Coil,44.21427
+620,India,2021,Non-Alloy Finished Steel,Andhra Pradesh,Galvanized Iron Coil,35.90125
+621,India,2021,Non-Alloy Finished Steel,Madhya Pradesh,Bars and Rods,23.21427
+622,India,2021,Non-Alloy Finished Steel,Telangana,HR Coil,40.3571
+623,India,2021,Non-Alloy Finished Steel,Goa,HR Coil,64.0
+624,India,2021,Non-Alloy Finished Steel,Rajasthan,Bars and Rods,24.87707
+625,India,2021,Non-Alloy Finished Steel,Andhra Pradesh,HR Coil,59.142849999999996
+626,India,2021,Non-Alloy Finished Steel,Rajasthan,HR Coil,16.142699999999998
+627,India,2020,Non-Alloy Finished Steel,Rajasthan,Bars and Rods,12.364270000000001
+628,India,2021,Non-Alloy Finished Steel,Kerala,Galvanized Iron Coil,40.803
+629,India,2021,Non-Alloy Finished Steel,Punjab,Stainless Steel,41.428399999999996
+630,India,2021,Non-Alloy Finished Steel,Telangana,HR Coil,37.4997
+631,India,2021,Non-Alloy Finished Steel,Bihar,Bars and Rods,46.305499999999995
+632,India,2020,Non-Alloy Finished Steel,Arunachal Pradesh,Bars and Rods,45.0
+633,India,2020,Non-Alloy Finished Steel,Chhattisgarh,Bars and Rods,65.71427
+634,India,2021,Non-Alloy Finished Steel,Chhattisgarh,Bars and Rods,4.71427
+635,India,2021,Non-Alloy Finished Steel,Jharkhand,Galvanized Iron Coil,48.49995
+636,India,2021,Non-Alloy Finished Steel,Odisha,Stainless Steel,45.5714
+637,India,2020,Non-Alloy Finished Steel,Goa,HR Coil,33.1427
+638,India,2021,Non-Alloy Finished Steel,West Bengal,HR Coil,23.0427
+639,India,2021,Non-Alloy Finished Steel,Maharashtra,Stainless Steel,5.16517
+640,India,2020,Non-Alloy Finished Steel,Chandigarh,Bars and Rods,18.7571
+641,India,2020,Non-Alloy Finished Steel,Rajasthan,Bars and Rods,54.28567
+642,India,2021,Non-Alloy Finished Steel,Uttarakhand,Bars and Rods,36.42857
+643,India,2021,Non-Alloy Finished Steel,Bihar,Stainless Steel,54.2857
+644,India,2020,Non-Alloy Finished Steel,Madhya Pradesh,Stainless Steel,41.428399999999996
+645,India,2021,Non-Alloy Finished Steel,Odisha,Stainless Steel,25.439585
+646,India,2019,Non-Alloy Finished Steel,Mizoram,Bars and Rods,24.8842
+647,India,2020,Non-Alloy Finished Steel,Odisha,Stainless Steel,37.868285
+648,India,2021,Non-Alloy Finished Steel,Sikkim,HR Coil,12.857140000000001
+649,India,2021,Non-Alloy Finished Steel,Rajasthan,Galvanized Iron Coil,20.78557
+650,India,2021,Non-Alloy Finished Steel,Tamil Nadu,HR Coil,30.428549999999998
+651,India,2021,Non-Alloy Finished Steel,Jharkhand,Galvanized Iron Coil,54.2857
+652,India,2021,Non-Alloy Finished Steel,Madhya Pradesh,Stainless Steel,72.514
+653,India,2021,Non-Alloy Finished Steel,Tamil Nadu,Stainless Steel,40.5714
+654,India,2021,Non-Alloy Finished Steel,Maharashtra,Stainless Steel,32.868285
+655,India,2020,Non-Alloy Finished Steel,Odisha,HR Coil,15.9284
+656,India,2021,Non-Alloy Finished Steel,Rajasthan,Galvanized Iron Coil,45.07125
+657,India,2020,Non-Alloy Finished Steel,Karnataka,HR Coil,23.21257
+658,India,2020,Non-Alloy Finished Steel,Punjab,HR Coil,34.641
+659,India,2020,Non-Alloy Finished Steel,Bihar,HR Coil,43.28557
+660,India,2021,Non-Alloy Finished Steel,Meghalaya,Bars and Rods,50.59135
+661,India,2021,Non-Alloy Finished Steel,Odisha,Stainless Steel,37.142849999999996
+662,India,2019,Non-Alloy Finished Steel,Tripura,Bars and Rods,66.42857000000001
+663,India,2021,Non-Alloy Finished Steel,Karnataka,HR Coil,52.8571
+664,India,2021,Non-Alloy Finished Steel,Uttar Pradesh,Galvanized Iron Coil,53.1428
+665,India,2021,Non-Alloy Finished Steel,Kerala,HR Coil,33.78557
+666,India,2020,Non-Alloy Finished Steel,Tamil Nadu,Bars and Rods,29.1625
+667,India,2021,Non-Alloy Finished Steel,Uttar Pradesh,Galvanized Iron Coil,48.58885
+668,India,2021,Non-Alloy Finished Steel,Rajasthan,Bars and Rods,19.9997
+669,India,2021,Non-Alloy Finished Steel,Maharashtra,Stainless Steel,12.582585
+670,India,2021,Non-Alloy Finished Steel,Madhya Pradesh,Stainless Steel,45.2857
+671,India,2021,Non-Alloy Finished Steel,Haryana,Galvanized Iron Coil,35.90125
+672,India,2021,Non-Alloy Finished Steel,Uttarakhand,Bars and Rods,56.42857
+673,India,2020,Non-Alloy Finished Steel,Madhya Pradesh,Galvanized Iron Coil,54.2857
+674,India,2021,Non-Alloy Finished Steel,Himachal Pradesh,Bars and Rods,54.87707
+675,India,2020,Non-Alloy Finished Steel,Andhra Pradesh,Stainless Steel,54.8284
+676,India,2021,Non-Alloy Finished Steel,Odisha,Stainless Steel,37.42855
+677,India,2021,Non-Alloy Finished Steel,Assam,Bars and Rods,5.8997
+678,India,2021,Non-Alloy Finished Steel,Karnataka,HR Coil,47.14282
+679,India,2021,Non-Alloy Finished Steel,Chandigarh,Stainless Steel,54.8284
+680,India,2021,Non-Alloy Finished Steel,Odisha,Stainless Steel,72.514
+681,India,2021,Non-Alloy Finished Steel,Gujarat,Galvanized Iron Coil,30.472699999999996
+682,India,2020,Non-Alloy Finished Steel,Arunachal Pradesh,Stainless Steel,20.2857
+683,India,2019,Non-Alloy Finished Steel,Rajasthan,Bars and Rods,24.8842
+684,India,2021,Non-Alloy Finished Steel,Telangana,Galvanized Iron Coil,47.142849999999996
+685,India,2021,Non-Alloy Finished Steel,Tripura,Bars and Rods,17.5714
+686,India,2021,Non-Alloy Finished Steel,Tamil Nadu,Stainless Steel,20.2857
+687,India,2021,Non-Alloy Finished Steel,West Bengal,Bars and Rods,44.7342
+688,India,2021,Non-Alloy Finished Steel,Bihar,HR Coil,48.57142
+689,India,2021,Non-Alloy Finished Steel,Arunachal Pradesh,Stainless Steel,31.4284
+690,India,2021,Non-Alloy Finished Steel,Tamil Nadu,HR Coil,6.0714
+691,India,2021,Non-Alloy Finished Steel,Telangana,Galvanized Iron Coil,56.042699999999996
+692,India,2021,Non-Alloy Finished Steel,Tripura,HR Coil,28.999855
+693,India,2021,Non-Alloy Finished Steel,Jammu and Kashmir,Stainless Steel,48.8571
+694,India,2021,Non-Alloy Finished Steel,Punjab,Stainless Steel,28.857100000000003
+695,India,2021,Non-Alloy Finished Steel,Sikkim,HR Coil,33.21427
+696,India,2021,Non-Alloy Finished Steel,Madhya Pradesh,Bars and Rods,26.999699999999997
+697,India,2020,Non-Alloy Finished Steel,Gujarat,Bars and Rods,23.2857
+698,India,2021,Non-Alloy Finished Steel,Gujarat,Galvanized Iron Coil,32.42785
+699,India,2021,Non-Alloy Finished Steel,Madhya Pradesh,Stainless Steel,43.8571
+700,India,2021,Non-Alloy Finished Steel,Odisha,Stainless Steel,59.114
+701,India,2021,Non-Alloy Finished Steel,Maharashtra,Stainless Steel,21.153985
+702,India,2021,Non-Alloy Finished Steel,Madhya Pradesh,Stainless Steel,20.2857
+703,India,2021,Non-Alloy Finished Steel,Andhra Pradesh,Galvanized Iron Coil,47.142849999999996
+704,India,2021,Non-Alloy Finished Steel,Chhattisgarh,Bars and Rods,34.471399999999996
+705,India,2020,Non-Alloy Finished Steel,Odisha,Stainless Steel,27.1428
+706,India,2021,Non-Alloy Finished Steel,Punjab,Stainless Steel,20.2857
+707,India,2021,Non-Alloy Finished Steel,Madhya Pradesh,Stainless Steel,63.39985
+708,India,2020,Non-Alloy Finished Steel,Uttarakhand,Bars and Rods,42.71427
+709,India,2020,Non-Alloy Finished Steel,Haryana,Galvanized Iron Coil,52.8571
+710,India,2020,Non-Alloy Finished Steel,West Bengal,HR Coil,22.7857
+711,India,2020,Non-Alloy Finished Steel,Jharkhand,Galvanized Iron Coil,54.2857
+712,India,2021,Non-Alloy Finished Steel,Gujarat,Galvanized Iron Coil,48.49995
+713,India,2021,Non-Alloy Finished Steel,Arunachal Pradesh,Bars and Rods,28.8571
+714,India,2021,Non-Alloy Finished Steel,Maharashtra,Galvanized Iron Coil,42.85714
+715,India,2020,Non-Alloy Finished Steel,Odisha,Stainless Steel,12.582585
+716,India,2020,Non-Alloy Finished Steel,Kerala,Bars and Rods,5.8997
+717,India,2020,Non-Alloy Finished Steel,Bihar,HR Coil,41.784
+718,India,2021,Non-Alloy Finished Steel,Chandigarh,Bars and Rods,46.99995
+719,India,2020,Non-Alloy Finished Steel,Karnataka,Galvanized Iron Coil,53.542699999999996
+720,India,2021,Non-Alloy Finished Steel,Rajasthan,Bars and Rods,54.2857
+721,India,2021,Non-Alloy Finished Steel,Himachal Pradesh,Bars and Rods,29.1625
+722,India,2021,Non-Alloy Finished Steel,Arunachal Pradesh,Stainless Steel,54.8284
+723,India,2021,Non-Alloy Finished Steel,Arunachal Pradesh,Stainless Steel,45.2857
+724,India,2021,Non-Alloy Finished Steel,Odisha,Stainless Steel,25.439585
+725,India,2021,Non-Alloy Finished Steel,Kerala,Galvanized Iron Coil,27.160000000000004
+726,India,2021,Non-Alloy Finished Steel,Maharashtra,Stainless Steel,60.5714
+727,India,2021,Non-Alloy Finished Steel,West Bengal,Bars and Rods,14.7284
+728,India,2019,Non-Alloy Finished Steel,Uttar Pradesh,Bars and Rods,58.57142
+729,India,2020,Non-Alloy Finished Steel,Uttar Pradesh,Bars and Rods,27.32855
+730,India,2021,Non-Alloy Finished Steel,Bihar,Stainless Steel,41.428399999999996
+731,India,2021,Non-Alloy Finished Steel,Kerala,Bars and Rods,27.1428
+732,India,2020,Non-Alloy Finished Steel,Kerala,Galvanized Iron Coil,50.21635
+733,India,2021,Non-Alloy Finished Steel,Odisha,Stainless Steel,53.1427
+734,India,2021,Non-Alloy Finished Steel,Punjab,Stainless Steel,48.8571
+735,India,2021,Non-Alloy Finished Steel,Chandigarh,Stainless Steel,46.257
+736,India,2021,Non-Alloy Finished Steel,Telangana,HR Coil,52.0
+737,India,2020,Non-Alloy Finished Steel,Telangana,HR Coil,53.21427
+738,India,2021,Non-Alloy Finished Steel,Arunachal Pradesh,Stainless Steel,53.8571
+739,India,2019,Non-Alloy Finished Steel,Bihar,Bars and Rods,4.71427
+740,India,2020,Non-Alloy Finished Steel,Uttarakhand,Bars and Rods,34.37707
+741,India,2021,Non-Alloy Finished Steel,Andhra Pradesh,HR Coil,51.7857
+742,India,2020,Non-Alloy Finished Steel,West Bengal,HR Coil,31.4284
+743,India,2021,Non-Alloy Finished Steel,Tamil Nadu,HR Coil,14.28557
+744,India,2020,Non-Alloy Finished Steel,Uttar Pradesh,Bars and Rods,22.857
+745,India,2021,Non-Alloy Finished Steel,Gujarat,Galvanized Iron Coil,52.8571
+746,India,2021,Non-Alloy Finished Steel,Punjab,Stainless Steel,21.153985
+747,India,2020,Non-Alloy Finished Steel,Bihar,HR Coil,22.85714
+748,India,2020,Non-Alloy Finished Steel,Odisha,HR Coil,34.285705
+749,India,2021,Non-Alloy Finished Steel,Andhra Pradesh,Galvanized Iron Coil,60.39985
+750,India,2021,Non-Alloy Finished Steel,Arunachal Pradesh,Stainless Steel,21.153985
+751,India,2020,Non-Alloy Finished Steel,Chhattisgarh,HR Coil,53.5697
+752,India,2021,Non-Alloy Finished Steel,Tamil Nadu,Stainless Steel,46.542699999999996
+753,India,2020,Non-Alloy Finished Steel,Andhra Pradesh,Stainless Steel,32.857
+754,India,2021,Non-Alloy Finished Steel,Maharashtra,Stainless Steel,28.857100000000003
+755,India,2021,Non-Alloy Finished Steel,Rajasthan,Bars and Rods,12.364270000000001
+756,India,2021,Non-Alloy Finished Steel,Punjab,Stainless Steel,35.71425
+757,India,2021,Non-Alloy Finished Steel,Chandigarh,Stainless Steel,54.2857
+758,India,2020,Non-Alloy Finished Steel,Maharashtra,Stainless Steel,31.4284
+759,India,2020,Non-Alloy Finished Steel,Mizoram,Bars and Rods,35.714200000000005
+760,India,2021,Non-Alloy Finished Steel,Goa,HR Coil,4.21427
+761,India,2021,Non-Alloy Finished Steel,Chhattisgarh,Galvanized Iron Coil,15.901
+762,India,2020,Non-Alloy Finished Steel,Rajasthan,Galvanized Iron Coil,53.1428
+763,India,2020,Non-Alloy Finished Steel,Odisha,Stainless Steel,63.39985
+764,India,2021,Non-Alloy Finished Steel,Uttarakhand,Bars and Rods,36.305499999999995
+765,India,2021,Non-Alloy Finished Steel,Gujarat,HR Coil,7.5427
+766,India,2020,Non-Alloy Finished Steel,Uttarakhand,HR Coil,28.999855
+767,India,2021,Non-Alloy Finished Steel,Karnataka,Galvanized Iron Coil,52.8571
+768,India,2021,Non-Alloy Finished Steel,Maharashtra,Stainless Steel,43.8571
+769,India,2021,Non-Alloy Finished Steel,Nagaland,HR Coil,35.2857
+770,India,2021,Non-Alloy Finished Steel,Tripura,Bars and Rods,47.857
+771,India,2021,Non-Alloy Finished Steel,Madhya Pradesh,Bars and Rods,45.7857
+772,India,2021,Non-Alloy Finished Steel,Andhra Pradesh,Galvanized Iron Coil,52.8571
+773,India,2020,Non-Alloy Finished Steel,Sikkim,HR Coil,27.497999999999998
+774,India,2021,Non-Alloy Finished Steel,Bihar,Bars and Rods,9.999970000000001
+775,India,2020,Non-Alloy Finished Steel,Maharashtra,Galvanized Iron Coil,42.892
+776,India,2021,Non-Alloy Finished Steel,Chandigarh,Bars and Rods,36.42857
+777,India,2020,Non-Alloy Finished Steel,Uttar Pradesh,Bars and Rods,11.871
+778,India,2021,Non-Alloy Finished Steel,Gujarat,HR Coil,30.3554
+779,India,2021,Non-Alloy Finished Steel,Chhattisgarh,HR Coil,14.285400000000001
+780,India,2021,Non-Alloy Finished Steel,Chandigarh,Bars and Rods,48.5714
+781,India,2021,Non-Alloy Finished Steel,Himachal Pradesh,HR Coil,28.570999999999998
+782,India,2020,Non-Alloy Finished Steel,Jharkhand,Bars and Rods,27.142699999999998
+783,India,2021,Non-Alloy Finished Steel,Haryana,Bars and Rods,36.4357
+784,India,2020,Non-Alloy Finished Steel,Chhattisgarh,Bars and Rods,45.71425
+785,India,2021,Non-Alloy Finished Steel,Uttar Pradesh,HR Coil,14.285400000000001
+786,India,2021,Non-Alloy Finished Steel,Gujarat,Bars and Rods,43.7342
+787,India,2021,Non-Alloy Finished Steel,Uttar Pradesh,HR Coil,8.571425
+788,India,2021,Non-Alloy Finished Steel,Tamil Nadu,HR Coil,25.5427
+789,India,2021,Non-Alloy Finished Steel,Rajasthan,Galvanized Iron Coil,2.85714
+790,India,2020,Non-Alloy Finished Steel,Himachal Pradesh,Bars and Rods,24.8842
+791,India,2021,Non-Alloy Finished Steel,Arunachal Pradesh,Bars and Rods,11.428
+792,India,2021,Non-Alloy Finished Steel,Odisha,HR Coil,36.78557
+793,India,2019,Non-Alloy Finished Steel,Jharkhand,Galvanized Iron Coil,46.499849999999995
+794,India,2021,Non-Alloy Finished Steel,Gujarat,Galvanized Iron Coil,21.42857
+795,India,2021,Non-Alloy Finished Steel,Maharashtra,Stainless Steel,59.114
+796,India,2021,Non-Alloy Finished Steel,Jharkhand,Galvanized Iron Coil,32.42785
+797,India,2020,Non-Alloy Finished Steel,Rajasthan,Galvanized Iron Coil,59.99995
+798,India,2020,Non-Alloy Finished Steel,Manipur,Bars and Rods,32.85714
+799,India,2021,Non-Alloy Finished Steel,Bihar,HR Coil,31.42825
+800,India,2021,Non-Alloy Finished Steel,Rajasthan,HR Coil,30.4284
+801,India,2021,Non-Alloy Finished Steel,Maharashtra,Galvanized Iron Coil,54.703
+802,India,2021,Non-Alloy Finished Steel,Uttar Pradesh,Bars and Rods,41.5714
+803,India,2021,Non-Alloy Finished Steel,Uttar Pradesh,Galvanized Iron Coil,32.42785
+804,India,2021,Non-Alloy Finished Steel,Nagaland,Bars and Rods,45.21427
+805,India,2020,Non-Alloy Finished Steel,Madhya Pradesh,Bars and Rods,5.7142
+806,India,2021,Non-Alloy Finished Steel,Andhra Pradesh,Bars and Rods,43.448499999999996
+807,India,2021,Non-Alloy Finished Steel,Tamil Nadu,Stainless Steel,41.428399999999996
+808,India,2021,Non-Alloy Finished Steel,Tamil Nadu,HR Coil,41.857
+809,India,2020,Non-Alloy Finished Steel,Andhra Pradesh,Galvanized Iron Coil,52.2141
+810,India,2019,Non-Alloy Finished Steel,Gujarat,Galvanized Iron Coil,15.472
+811,India,2021,Non-Alloy Finished Steel,Jammu and Kashmir,Bars and Rods,42.0199
+812,India,2021,Non-Alloy Finished Steel,Rajasthan,Galvanized Iron Coil,47.42855
+813,India,2021,Non-Alloy Finished Steel,Odisha,HR Coil,34.28557
+814,India,2021,Non-Alloy Finished Steel,Kerala,HR Coil,27.142699999999998
+815,India,2021,Non-Alloy Finished Steel,Gujarat,HR Coil,48.999849999999995
+816,India,2019,Non-Alloy Finished Steel,Telangana,Bars and Rods,61.42855
+817,India,2020,Non-Alloy Finished Steel,Sikkim,HR Coil,35.71427
+818,India,2021,Non-Alloy Finished Steel,Karnataka,Galvanized Iron Coil,52.2141
+819,India,2020,Non-Alloy Finished Steel,Telangana,Bars and Rods,48.57142
+820,India,2021,Non-Alloy Finished Steel,Telangana,Galvanized Iron Coil,54.703
+821,India,2021,Non-Alloy Finished Steel,Madhya Pradesh,Stainless Steel,44.8284
+822,India,2020,Non-Alloy Finished Steel,Madhya Pradesh,Stainless Steel,28.857100000000003
+823,India,2019,Non-Alloy Finished Steel,Chhattisgarh,Galvanized Iron Coil,48.49995
+824,India,2021,Non-Alloy Finished Steel,Chandigarh,Stainless Steel,12.582585
+825,India,2020,Non-Alloy Finished Steel,Jharkhand,Galvanized Iron Coil,47.14282
+826,India,2020,Non-Alloy Finished Steel,Gujarat,HR Coil,8.9997
+827,India,2021,Non-Alloy Finished Steel,Tamil Nadu,HR Coil,23.28557
+828,India,2021,Non-Alloy Finished Steel,Mizoram,Bars and Rods,24.87707
+829,India,2021,Non-Alloy Finished Steel,Haryana,Galvanized Iron Coil,47.42855
+830,India,2020,Non-Alloy Finished Steel,West Bengal,Bars and Rods,3.0428
+831,India,2021,Non-Alloy Finished Steel,Tamil Nadu,HR Coil,21.9697
+832,India,2021,Non-Alloy Finished Steel,Madhya Pradesh,Galvanized Iron Coil,45.07125
+833,India,2021,Non-Alloy Finished Steel,Tamil Nadu,HR Coil,32.85685
+834,India,2021,Non-Alloy Finished Steel,Delhi,Galvanized Iron Coil,66.11410000000001
+835,India,2020,Non-Alloy Finished Steel,Uttar Pradesh,Galvanized Iron Coil,32.85685
+836,India,2021,Non-Alloy Finished Steel,Rajasthan,Galvanized Iron Coil,59.99995
+837,India,2021,Non-Alloy Finished Steel,Mizoram,Bars and Rods,22.71427
+838,India,2021,Non-Alloy Finished Steel,Odisha,HR Coil,34.714
+839,India,2020,Non-Alloy Finished Steel,Haryana,Galvanized Iron Coil,47.142849999999996
+840,India,2021,Non-Alloy Finished Steel,Uttar Pradesh,Bars and Rods,20.4714
+841,India,2021,Non-Alloy Finished Steel,Haryana,Bars and Rods,35.71427
+842,India,2021,Non-Alloy Finished Steel,Uttarakhand,Bars and Rods,45.2342
+843,India,2021,Non-Alloy Finished Steel,Maharashtra,Stainless Steel,28.857100000000003
+844,India,2020,Non-Alloy Finished Steel,Chhattisgarh,Galvanized Iron Coil,44.5195
+845,India,2021,Non-Alloy Finished Steel,Tamil Nadu,Bars and Rods,16.157
+846,India,2021,Non-Alloy Finished Steel,Madhya Pradesh,Bars and Rods,34.5714
+847,India,2021,Non-Alloy Finished Steel,Uttarakhand,HR Coil,11.71427
+848,India,2021,Non-Alloy Finished Steel,Andhra Pradesh,Galvanized Iron Coil,41.42857
+849,India,2021,Non-Alloy Finished Steel,Bihar,Stainless Steel,25.439585
+850,India,2021,Non-Alloy Finished Steel,Odisha,Stainless Steel,12.582585
+851,India,2021,Non-Alloy Finished Steel,Gujarat,HR Coil,13.071000000000002
+852,India,2020,Non-Alloy Finished Steel,Odisha,Stainless Steel,40.2857
+853,India,2021,Non-Alloy Finished Steel,Rajasthan,Galvanized Iron Coil,28.499699999999997
+854,India,2020,Non-Alloy Finished Steel,Chhattisgarh,Galvanized Iron Coil,25.999699999999997
+855,India,2021,Non-Alloy Finished Steel,Odisha,Stainless Steel,53.1427
+856,India,2021,Non-Alloy Finished Steel,Madhya Pradesh,Galvanized Iron Coil,45.71425
+857,India,2021,Non-Alloy Finished Steel,Uttarakhand,Bars and Rods,29.6055
+858,India,2021,Non-Alloy Finished Steel,Chhattisgarh,Bars and Rods,21.4357
+859,India,2020,Non-Alloy Finished Steel,Chhattisgarh,HR Coil,42.85714
+860,India,2021,Non-Alloy Finished Steel,Punjab,Stainless Steel,37.1428
+861,India,2021,Non-Alloy Finished Steel,Arunachal Pradesh,HR Coil,22.35714
+862,India,2020,Non-Alloy Finished Steel,Gujarat,HR Coil,4.21427
+863,India,2021,Non-Alloy Finished Steel,Chandigarh,Stainless Steel,18.5714
+864,India,2021,Non-Alloy Finished Steel,Goa,Bars and Rods,44.28557
+865,India,2021,Non-Alloy Finished Steel,Tripura,HR Coil,18.071425
+866,India,2021,Non-Alloy Finished Steel,Chandigarh,Stainless Steel,71.5427
+867,India,2021,Non-Alloy Finished Steel,Chhattisgarh,HR Coil,33.21427
+868,India,2020,Non-Alloy Finished Steel,Uttar Pradesh,HR Coil,18.570999999999998
+869,India,2021,Non-Alloy Finished Steel,Madhya Pradesh,Galvanized Iron Coil,47.160250000000005
+870,India,2021,Non-Alloy Finished Steel,Madhya Pradesh,Galvanized Iron Coil,35.90125
+871,India,2021,Non-Alloy Finished Steel,Uttar Pradesh,Bars and Rods,58.57135
+872,India,2020,Non-Alloy Finished Steel,Maharashtra,Galvanized Iron Coil,47.142849999999996
+873,India,2020,Non-Alloy Finished Steel,Kerala,HR Coil,12.357140000000001
+874,India,2021,Non-Alloy Finished Steel,Telangana,Bars and Rods,27.14257
+875,India,2021,Non-Alloy Finished Steel,Tamil Nadu,Bars and Rods,29.1625
+876,India,2020,Non-Alloy Finished Steel,Manipur,HR Coil,22.85714
+877,India,2021,Non-Alloy Finished Steel,Bihar,HR Coil,41.857
+878,India,2021,Non-Alloy Finished Steel,Tamil Nadu,Bars and Rods,46.305499999999995
+879,India,2021,Non-Alloy Finished Steel,Maharashtra,Bars and Rods,4.28567
+880,India,2020,Non-Alloy Finished Steel,Gujarat,HR Coil,24.28557
+881,India,2021,Non-Alloy Finished Steel,Rajasthan,Galvanized Iron Coil,39.357
+882,India,2021,Non-Alloy Finished Steel,Maharashtra,Stainless Steel,45.2857
+883,India,2020,Non-Alloy Finished Steel,Punjab,HR Coil,46.2857
+884,India,2021,Non-Alloy Finished Steel,Gujarat,Galvanized Iron Coil,54.2857
+885,India,2021,Non-Alloy Finished Steel,Tamil Nadu,Stainless Steel,45.714
+886,India,2021,Non-Alloy Finished Steel,Jammu and Kashmir,Stainless Steel,54.8284
+887,India,2021,Non-Alloy Finished Steel,Andhra Pradesh,HR Coil,25.71427
+888,India,2020,Non-Alloy Finished Steel,Rajasthan,Bars and Rods,44.28557
+889,India,2021,Non-Alloy Finished Steel,Karnataka,Galvanized Iron Coil,66.11410000000001
+890,India,2021,Non-Alloy Finished Steel,Jharkhand,Bars and Rods,42.0199
+891,India,2021,Non-Alloy Finished Steel,Bihar,Stainless Steel,37.142849999999996
+892,India,2019,Non-Alloy Finished Steel,Telangana,Bars and Rods,49.16275
+893,India,2021,Non-Alloy Finished Steel,Uttar Pradesh,Galvanized Iron Coil,45.71425
+894,India,2021,Non-Alloy Finished Steel,Maharashtra,Galvanized Iron Coil,21.71427
+895,India,2021,Non-Alloy Finished Steel,Telangana,Galvanized Iron Coil,45.99995
+896,India,2021,Non-Alloy Finished Steel,Odisha,Stainless Steel,12.582585
+897,India,2021,Non-Alloy Finished Steel,Uttarakhand,Bars and Rods,34.285650000000004
+898,India,2021,Non-Alloy Finished Steel,Goa,HR Coil,11.71427
+899,India,2020,Non-Alloy Finished Steel,Maharashtra,Stainless Steel,33.1427
+900,India,2021,Non-Alloy Finished Steel,Uttarakhand,Bars and Rods,27.14995
+901,India,2021,Non-Alloy Finished Steel,Andhra Pradesh,Galvanized Iron Coil,54.68557
+902,India,2020,Non-Alloy Finished Steel,Uttarakhand,HR Coil,39.1427
+903,India,2021,Non-Alloy Finished Steel,Jharkhand,Bars and Rods,55.7141
+904,India,2021,Non-Alloy Finished Steel,Maharashtra,Galvanized Iron Coil,30.99925
+905,India,2020,Non-Alloy Finished Steel,Maharashtra,Galvanized Iron Coil,54.3031
+906,India,2020,Non-Alloy Finished Steel,Karnataka,Galvanized Iron Coil,34.68557
+907,India,2019,Non-Alloy Finished Steel,Karnataka,Bars and Rods,41.42857
+908,India,2020,Non-Alloy Finished Steel,Tripura,Bars and Rods,37.14257
+909,India,2021,Non-Alloy Finished Steel,Manipur,Bars and Rods,21.4285
+910,India,2021,Non-Alloy Finished Steel,Uttar Pradesh,Bars and Rods,21.71427
+911,India,2021,Non-Alloy Finished Steel,Meghalaya,Bars and Rods,53.5714
+912,India,2020,Non-Alloy Finished Steel,Uttar Pradesh,HR Coil,30.4284
+913,India,2021,Non-Alloy Finished Steel,Gujarat,HR Coil,12.357140000000001
+914,India,2021,Non-Alloy Finished Steel,Maharashtra,Stainless Steel,59.114
+915,India,2021,Non-Alloy Finished Steel,Andhra Pradesh,Galvanized Iron Coil,41.71427
+916,India,2021,Non-Alloy Finished Steel,Nagaland,HR Coil,59.142849999999996
+917,India,2020,Non-Alloy Finished Steel,Telangana,Bars and Rods,40.0
+918,India,2020,Non-Alloy Finished Steel,Maharashtra,Galvanized Iron Coil,41.731700000000004
+919,India,2020,Non-Alloy Finished Steel,Kerala,HR Coil,42.0714
+920,India,2021,Non-Alloy Finished Steel,Chandigarh,Stainless Steel,28.857100000000003
+921,India,2020,Non-Alloy Finished Steel,Madhya Pradesh,Galvanized Iron Coil,32.42785
+922,India,2021,Non-Alloy Finished Steel,Odisha,Stainless Steel,32.857
+923,India,2021,Non-Alloy Finished Steel,Jharkhand,Galvanized Iron Coil,54.3031
+924,India,2021,Non-Alloy Finished Steel,Gujarat,HR Coil,11.428
+925,India,2021,Non-Alloy Finished Steel,Himachal Pradesh,HR Coil,23.21257
+926,India,2021,Non-Alloy Finished Steel,Odisha,Stainless Steel,28.5714
+927,India,2021,Non-Alloy Finished Steel,Bihar,HR Coil,36.0697
+928,India,2021,Non-Alloy Finished Steel,Tamil Nadu,Stainless Steel,31.4284
+929,India,2021,Non-Alloy Finished Steel,Mizoram,HR Coil,25.142699999999998
+930,India,2021,Non-Alloy Finished Steel,Karnataka,Galvanized Iron Coil,25.999699999999997
+931,India,2021,Non-Alloy Finished Steel,Chandigarh,Stainless Steel,63.39985
+932,India,2020,Non-Alloy Finished Steel,Bihar,Bars and Rods,21.4284
+933,India,2021,Non-Alloy Finished Steel,Goa,HR Coil,24.569699999999997
+934,India,2021,Non-Alloy Finished Steel,Arunachal Pradesh,Stainless Steel,37.1428
+935,India,2021,Non-Alloy Finished Steel,Madhya Pradesh,Stainless Steel,44.8284
+936,India,2021,Non-Alloy Finished Steel,Tamil Nadu,Bars and Rods,34.471399999999996
+937,India,2021,Non-Alloy Finished Steel,Madhya Pradesh,Stainless Steel,40.5714
+938,India,2021,Non-Alloy Finished Steel,Gujarat,Bars and Rods,24.87707
+939,India,2021,Non-Alloy Finished Steel,Andhra Pradesh,Bars and Rods,16.157
+940,India,2021,Non-Alloy Finished Steel,Uttarakhand,Bars and Rods,40.4427
+941,India,2021,Non-Alloy Finished Steel,Punjab,Stainless Steel,18.5714
+942,India,2021,Non-Alloy Finished Steel,Haryana,Galvanized Iron Coil,47.14282
+943,India,2021,Non-Alloy Finished Steel,Uttarakhand,Bars and Rods,11.8571
+944,India,2020,Non-Alloy Finished Steel,Arunachal Pradesh,Stainless Steel,20.5714
+945,India,2021,Non-Alloy Finished Steel,Tamil Nadu,Stainless Steel,40.5714
+946,India,2021,Non-Alloy Finished Steel,Telangana,HR Coil,31.42857
+947,India,2020,Non-Alloy Finished Steel,Andhra Pradesh,HR Coil,37.1427
+948,India,2021,Non-Alloy Finished Steel,Mizoram,HR Coil,25.142699999999998
+949,India,2021,Non-Alloy Finished Steel,Andhra Pradesh,Stainless Steel,44.8284
+950,India,2021,Non-Alloy Finished Steel,Andhra Pradesh,Stainless Steel,45.714
+951,India,2021,Non-Alloy Finished Steel,Bihar,Stainless Steel,66.5427
+952,India,2021,Non-Alloy Finished Steel,Rajasthan,Galvanized Iron Coil,32.42785
+953,India,2020,Non-Alloy Finished Steel,Arunachal Pradesh,Bars and Rods,8.571425
+954,India,2021,Non-Alloy Finished Steel,Chhattisgarh,HR Coil,15.71427
+955,India,2021,Non-Alloy Finished Steel,Sikkim,HR Coil,15.71427
+956,India,2021,Non-Alloy Finished Steel,Meghalaya,HR Coil,35.71425
+957,India,2021,Non-Alloy Finished Steel,Madhya Pradesh,Stainless Steel,49.999849999999995
+958,India,2021,Non-Alloy Finished Steel,Manipur,HR Coil,7.14257
+959,India,2020,Non-Alloy Finished Steel,Punjab,Stainless Steel,46.257
+960,India,2021,Non-Alloy Finished Steel,Chhattisgarh,HR Coil,39.999849999999995
+961,India,2021,Non-Alloy Finished Steel,Tamil Nadu,Bars and Rods,31.42825
+962,India,2021,Non-Alloy Finished Steel,Gujarat,HR Coil,1.6142699999999999
+963,India,2021,Non-Alloy Finished Steel,Telangana,HR Coil,53.784
+964,India,2020,Non-Alloy Finished Steel,Uttarakhand,Bars and Rods,40.714
+965,India,2020,Non-Alloy Finished Steel,Uttar Pradesh,Bars and Rods,38.07142
+966,India,2020,Non-Alloy Finished Steel,Karnataka,Bars and Rods,28.428555
+967,India,2019,Non-Alloy Finished Steel,Karnataka,Bars and Rods,1.6142699999999999
+968,India,2020,Non-Alloy Finished Steel,Tamil Nadu,Stainless Steel,33.1427
+969,India,2020,Non-Alloy Finished Steel,Andhra Pradesh,HR Coil,21.42857
+970,India,2020,Non-Alloy Finished Steel,Chhattisgarh,HR Coil,11.71427
+971,India,2021,Non-Alloy Finished Steel,Madhya Pradesh,Bars and Rods,27.14282
+972,India,2021,Non-Alloy Finished Steel,Punjab,Stainless Steel,12.868285
+973,India,2020,Non-Alloy Finished Steel,Haryana,Galvanized Iron Coil,32.42785
+974,India,2021,Non-Alloy Finished Steel,Jammu and Kashmir,Stainless Steel,46.542699999999996
+975,India,2021,Non-Alloy Finished Steel,Chhattisgarh,HR Coil,38.214
+976,India,2021,Non-Alloy Finished Steel,Tamil Nadu,HR Coil,15.9284
+977,India,2021,Non-Alloy Finished Steel,Arunachal Pradesh,Stainless Steel,32.857
+978,India,2021,Non-Alloy Finished Steel,Uttar Pradesh,Bars and Rods,57.7342
+979,India,2021,Non-Alloy Finished Steel,Bihar,Bars and Rods,67.1428
+980,India,2021,Non-Alloy Finished Steel,Jharkhand,Galvanized Iron Coil,51.4285
+981,India,2021,Non-Alloy Finished Steel,Jharkhand,Galvanized Iron Coil,43.3592
+982,India,2020,Non-Alloy Finished Steel,Arunachal Pradesh,Stainless Steel,28.857100000000003
+983,India,2021,Non-Alloy Finished Steel,Odisha,Stainless Steel,45.714
+984,India,2021,Non-Alloy Finished Steel,Andhra Pradesh,Stainless Steel,54.8284
+985,India,2021,Non-Alloy Finished Steel,Uttar Pradesh,Bars and Rods,58.448499999999996
+986,India,2021,Non-Alloy Finished Steel,Rajasthan,Bars and Rods,56.0714
+987,India,2021,Non-Alloy Finished Steel,Mizoram,HR Coil,39.1427
+988,India,2021,Non-Alloy Finished Steel,Maharashtra,Stainless Steel,32.857
+989,India,2021,Non-Alloy Finished Steel,Bihar,Bars and Rods,31.7857
+990,India,2019,Non-Alloy Finished Steel,Goa,Bars and Rods,69.28569999999999
+991,India,2021,Non-Alloy Finished Steel,Andhra Pradesh,Bars and Rods,2.8714
+992,India,2020,Non-Alloy Finished Steel,Odisha,Stainless Steel,40.5714
+993,India,2021,Non-Alloy Finished Steel,Jammu and Kashmir,Stainless Steel,46.542699999999996
+994,India,2021,Non-Alloy Finished Steel,Madhya Pradesh,Stainless Steel,59.114
+995,India,2021,Non-Alloy Finished Steel,Kerala,Galvanized Iron Coil,37.32985
+996,India,2021,Non-Alloy Finished Steel,Jammu and Kashmir,Stainless Steel,45.2857
+997,India,2021,Non-Alloy Finished Steel,Maharashtra,Stainless Steel,40.2857
+998,India,2021,Non-Alloy Finished Steel,Delhi,Galvanized Iron Coil,46.499849999999995
+999,India,2021,Non-Alloy Finished Steel,Himachal Pradesh,HR Coil,39.6427
+1000,India,2019,Non-Alloy Finished Steel,Andhra Pradesh,Galvanized Iron Coil,56.3305
